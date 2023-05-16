@@ -1,0 +1,9 @@
+pinecone-client==2.0.10
+opendatasets
+sentence_transformers 
+datasets
+farm-haystack[pinecone]>=1.3.0
+lxml
+libxml2
+
+

@@ -1,0 +1,2151 @@
+
+Kidneys and Excretion
+(with Notes on Nitrogen Excretion)
+
+
+
+
+
+An animal’s body fluids are dynamic—continuously gaining and losing water, inorganic ions, and organic solutes. When a kangaroo rat in the desert is successfully maintaining water balance in moderate summer weather, about 15% of the water in its body fluids is lost and replaced each day.
+
+This rate of turnover is low for a mammal of its body size; species of mice and rats living in moist temperate habitats often turn over 35% or more of their water per day. Humans, being larger, have lower percentage turnover rates, but even in people going about their ordinary daily lives, about 7% of the water in the body fluids is lost and replaced every day. Organic solutes and inorganic ions in the body fluids also undergo incessant turnover. Ions such as Na+ and Cl–, for example, are added from foods and excreted in urine.
+
+The great dynamism of the body fluids means that their composition is continuously in danger of being shifted away from normal. As water, for example, leaves the body fluids and is replaced each day, any mismatch between the rates of loss and replacement may render the body fluids excessively dilute or concentrated.
+
+For the blood and other body fluids to be maintained at a normal composition, an animal requires organs that are capable of correcting any departures from normal that develop during the complex fluxes of materials in and out. In aquatic animals such as fish and crayfish, the kidneys and gills are
+
+the organs primarily responsible for this task. In terrestrial animals such as kangaroo rats, the kidneys bear the primary responsibility alone.
+
+Kangaroo rats and other desert rodents that have been studied have a status in the physiology of kidney function not unlike the status of cheetahs in the physiology of running. The kidneys of these desert rodents represent the ultimate product of evolution in their abil-ity to concentrate urine. Most types of animals cannot concentrate their urine at all, in the sense that they cannot produce urine with an osmotic pressure higher than the osmotic pres-sure of their blood plasma. Some insects can make urine that is 6–8 times higher in osmotic pressure than their blood plasma. Birds also can concentrate their urine, typically to an osmotic pressure that is 3 times the blood osmotic pressure, or lower. Certain species of kangaroo rats, however, can make urine that is 14 times higher in osmotic pressure than their blood plasma, and some of the desert hopping mice of Australia can make urine more than 20 times higher.
+
+The advantage of the high concentrating ability of the kidneys of desert rodents is that the kidneys have an extraordinary capacity to correct a type of error in blood composition that desert rodents are particularly likely to face. When a kidney can produce
+
+urine with a higher osmotic pressure than the blood plasma, it can dilute the blood (see Figure 27.7). During the dynamic daily flux of water and solutes in and out of the body, the blood plasma of desert
+
+
+Species of small mammals that have evolved in deserts are, among all animals, the extreme performers in their ability to concentrate their urine Excretion of dissolved wastes in as little water as possible is a key to maintaining water balance in water-poor environments. Around the world, each desert has its own assemblage of small mammals. Some of these unique animals—such as the kangaroo rats (bottom) of the American southwest—have been carefully studied. Others—such as the jerboas (top) of Asian deserts—have been little studied by physiologists and, because of habitat destruction, may be driven to extinction before we know them. Shown here are the desert kangaroo rat (Dipodomys deserti ) from the American southwest and the long-eared jerboa (Euchoreutes naso) from the Gobi Desert in China. (Jerboa courtesy of Zoological Society of London.)
+ 
+CHAPTER
+29
+
+ 
+754	Chapter 29
+
+rodents tends often to be shifted toward concentrations higher than normal. The kidneys of these rodents, with their unique abilities to produce urine hyperosmotic to the blood plasma, are exceptionally suited to correcting this sort of problem.
+
+Considering animals in general, what are kidneys? We will see in this chapter that the kidneys of various types of animals are very diverse in morphology as well as in details of their physiology. All kidneys, however, have three features in common. First, they all consist of tubular elements that discharge directly or indirectly to the outside world. Second, they all produce and eliminate aque-ous solutions derived from the blood plasma or other extracellular body fluids. Third, their function is the regulation of the composition and volume of the blood plasma and other extracellular body fluids by means of controlled excretion of solutes and water.
+
+Urine, the product of the kidneys, is typically a complex solu-tion containing multiple inorganic and organic solutes. All the constituents of the urine—including the water—are drawn from the blood plasma, and the urine concentration of each affects the blood concentration according to the principles we discussed in Chapter 27 (see page 709 and Figure 27.7). The urine often con-tains nitrogenous wastes, but the role of the urine is much more far-reaching than merely excreting waste nitrogen. The urine of a mammal, for example—although it contains urea (the nitrogenous end product)—also contains Na+, Cl–, K+, PO43–, SO42–, creatinine, and numerous other components. The kidneys excrete each of these in greater or lesser amounts day by day, closely regulating the concentration of each in the blood plasma. The kidneys also excrete greater or lesser amounts of H+ in the urine, thereby helping to maintain a steady blood pH. Moreover, the kidneys regulate the osmotic pressure of the blood by means of the controlled excretion of water relative to total solutes. It seems almost impossible—but is true—that the kidneys perform all these functions simultaneously by structuring the composition of a single fluid output: the urine.
+
+Basic Mechanisms of Kidney Function
+
+Urine formation can usually be conceptualized as occurring in two steps, although these “steps” may sometimes be partly con-temporaneous. First, an aqueous solution, called primary urine, is introduced into the kidney tubules. Second, this solution is modified as it moves through the kidney tubules and other excretory pas-sages, ultimately becoming the definitive urine that is eliminated.
+
+Primary urine is introduced into kidney tubules by ultrafiltration or secretion
+
+One widespread mechanism by which fluid is introduced into kidney tubules is ultrafiltration. This is the mechanism used in most vertebrates and in many invertebrates, such as molluscs and decapod crustaceans (e.g., crayfish and crabs). Ultrafiltration into a kidney tubule occurs when the hydrostatic pressure is higher outside the tubule than inside the tubule lumen1 at a place where the tubule wall is structured in a specialized, minutely porous way that permits fluid to pass through the wall. Under these cir-cumstances, the difference in hydrostatic pressure—provided it is high enough2—forces fluid to enter the tubule through the wall by
+
+ 
+
+
+means of pressure-driven bulk flow, or streaming. This flow is termed ultrafiltration. The process is literally a form of filtration because solutes of large molecular size typically are unable to pass through the wall of the tubule. Thus the fluid introduced into the tubule lumen—which is termed a filtrate or ultrafiltrate—consists only of water and the subset of solutes that are able to stream through with the water. The blood plasma is the source of the water and solutes that stream through. Although there are exceptions in some groups of invertebrates, the blood pressure produced by the heart is typically the pressure that drives ultrafiltration, explaining why heart weakening can interfere with urine formation.
+
+To understand the formation of primary urine by ultrafiltration more fully, let’s examine the process in the vertebrate kidney. Each kidney consists of many tubules, called nephrons, the walls of
+
+which consist of a single layer of epithelial cells (see Figure 2.6b). As diagrammed in Figure 29.1a, each nephron begins blindly with
+
+its walls thrown into a hemispherical, invaginated structure termed
+
+a	Bowman’s capsule, named after William Bowman (1816–1892), who first described it. Tucked inside each Bowman’s capsule is an anastomosing cluster of blood capillaries, termed a glomerulus
+(Figure 29.1b), which is supplied with blood at relatively high pres-sure by branches of the renal artery. A Bowman’s capsule and its glomerulus together constitute a renal corpuscle.3 The glomerular capillaries are intimately juxtaposed to the inner wall of the Bow-man’s capsule. Moreover, the wall of each capillary consists of a single layer of epithelial cells (the capillary endothelium), just as the wall of the Bowman’s capsule consists of a single layer of cells. The lumen of the capillaries, therefore, is separated from the lumen of the Bowman’s capsule by only two layers of cells and a nonliving, porous basement membrane between the cell layers (see inset in Figure 29.1b). These intervening structures have a specialized morphology and act as a filter. Fluid is driven through this filter from the blood plasma into the lumen of the Bowman’s capsule by the hydrostatic pressure of the blood. The fluid that accumulates in the lumen of the Bowman’s capsule is known as the capsular fluid and is the primary urine. Although a critical determinant of whether a solute will pass through is its molecular size, molecular charge and shape can also be significant; thus the filter has complex features, which include, but are not limited to, simple physical pores or slits.
+
+Current theories regarding the function of the filter place par-ticular importance on the cellular wall of the Bowman’s capsule, which is composed of specialized cells called podocytes (drawn highly diagrammatically in Figure 29.1b). The podocyte cells have processes, and the processes of neighboring podocytes interdigitate in geometrically intricate ways, creating countless narrow slits between the processes. The assembly of processes and slits is called the slit diaphragm, believed to be the most critical part of the filter.
+
+Inorganic ions and small organic molecules such as glucose, urea, and amino acids move freely with filtered fluid as it passes from the blood plasma into the lumen of a Bowman’s capsule. Thus the concentrations of these solutes are virtually the same in the capsular fluid—the primary urine—as in the blood plasma. In contrast, solutes with molecular weights of about 10,000 daltons or more—such as albumins and other plasma proteins—are essentially unable to pass through the structures that separate the blood plasma and the
+
+ 
+
+1The lumen of a hollow structure such as a kidney tubule is the open central cavity.
+2	We discuss this important topic shortly.
+ 
+
+3	Another name for renal corpuscle is Malpighian corpuscle. Sometimes the entire renal corpuscle is called a glomerulus.
+ 
+3	The barrier between blood and capsular fluid is complexly porous. The capillary endo-thelium is perforated with many fenestrations (gaps or pores). The cellular wall of the Bowman’s capsule consists
+3	of podocytes, which have processes that interdigitate complexly, forming countless slits between juxtaposed elements.
+Kidneys and Excretion	755
+ 
+
+(a) The general form of a vertebrate nephron at the end where primary urine is formed
+
+
+Bowman’s capsule  
+
+(b)  A human glomerulus  positioned in a Bowman’s capsule
+
+Glomerular	Blood	Glomerular
+efferent vessel	flow	afferent vessel
+
+
+Glomerular blood channel (endothelial wall cut away)
+ 
+
+FIGURE 29.1 The structural and functional basis for formation of primary urine by ultrafiltration in the vertebrate kidney (a) The blind end of a vertebrate neph-ron, where ultrafiltration occurs. (b) A human renal corpuscle, consisting of glom-erulus and Bowman’s capsule. The vascular endothelium that forms the walls of the glomerular capillaries has been cut away at the top of the drawing, so that only the blood channels are shown there. The Bowman’s capsule is drawn diagrammatically; the inner membrane of the capsule actually interdigitates with the sheets of vascular endothelium so that there is intimate juxtaposition of all blood capillaries and the cap-sular membrane. (c) The forces of hydrostatic pressure and colloid osmotic pressure that affect the rate of filtration: The relative lengths of the black arrows symbolize the relative magnitudes of these forces. (b after Elias et al. 1960.)
+ 
+
+		Vascular	The capsular fluid is
+		endothelium	
+			the primary urine. It
+		Capsular	is formed by ultrafil-
+			tration from the
+		fluid	
+			blood plasma.
+			Podocyte
+			(specialized
+			epithelial cell)
+Fluid		Bowman’s		
+moving by		capsule		
+ultrafiltration	Nephron	Basement		
+	tubule			
+		membrane		
+0.1 mm		shared by the		
+		two cell layers		
+				
+		Fenestration in		
+		endothelial cell		
+		Vascular		
+		endothelial cell		
+		Blood	Capsular
+(c)  Forces that favor and impede filtration		fluid
+		
+
+ 
+
+fluid (see page 122). This difference in osmotic pressure is called the colloid osmotic pressure of the blood. Taking the colloid osmotic pressure into account, there are two processes that tend to cause water (H2O) to move between the blood plasma and capsular fluid. The first is the difference in osmotic pressure, which tends to cause osmosis of water from the capsular fluid into the blood plasma.
+
+The second is the difference in hydrostatic pressure, which tends to cause bulk flow of water from the blood plasma into the capsular fluid. Net filtration of fluid into the capsular lumen will occur only if the difference in hydrostatic pressure is greater than the difference in osmotic pressure. In the renal corpuscles of the species of mammals that have been used as model systems for research, the blood pressure (hydrostatic pressure of the blood) is about 6.7 kPa, and the opposing hydrostatic pres-sure in the capsular fluid is about 1.9 kPa,
+
+meaning that the difference in hydrostatic pressure is about 4.8 kPa. The colloid osmotic pressure averages about 3.5 kPa. Thus
+ 
+
+
+
+
+
+Blood
+
+  Capsular
+
+fluid
+ 
+
+Filtration pressure is defined to be the hydrostatic pressure of the blood (blood pressure) minus both the colloid osmotic pressure of the blood plasma and the hydrostatic pressure of the capsular fluid. Filtration occurs only if the filtration pressure is positive.
+
+ 
+
+the net force favoring filtration—termed the filtration pressure—is about 1.3 kPa, as shown in Figure 29.1c. The blood pressure in
+
+the glomerular capillaries is significantly higher than the blood pressure in most capillaries in mammals, helping to promote filtration and formation of primary urine. Part of the reason for the high capillary blood pressure is that the arterioles leading to the glomeruli are relatively large in diameter and thus offer a relatively low resistance as blood flows to the glomeruli.
+
+The rate of primary-urine formation by all of an animal’s kidney tubules taken together is called the filtration rate. In vertebrates, it is termed specifically the glomerular filtration rate, or GFR. Adult humans, for example, have a GFR of about 120 mL/min. At this
+ 
+Blood pressure in glomerular capillary:	+6.7 kPa
+
+Colloid osmotic pressure:	–3.5 kPa
+Capsular fluid hydrostatic pressure:	–1.9 kPa
+Filtration pressure		
+	+1.3 kPa
+(net force favoring filtration):	
+
+
+capsular fluid. The primary urine, therefore, closely resembles the blood plasma in its composition of inorganic ions and low-molecular-weight organic solutes, but differs from the plasma in being almost devoid of high-molecular-weight organic solutes such as proteins.
+
+Because proteins remain more concentrated in the blood plasma than in the capsular fluid, the osmotic pressure of the blood plasma is higher than the osmotic pressure of the capsular
+ 
+
+rate, the equivalent of all the plasma water in a person’s body is filtered about every 30 minutes! This example points to an important prop-erty of vertebrates, namely that the GFR greatly exceeds the rate of excretion of definitive urine. Most of the filtered water is ultimately reabsorbed back into the blood, rather than being excreted. The sheer magnitude of the rate of filtration means, however, that the nephrons have very intimate access to the blood plasma to carry out their function of regulating plasma composition.
+
+The rate of production of definitive urine by an individual ver-tebrate animal can, in principle, be controlled in part by regulating the GFR. This mode of controlling urine flow is employed to some degree by mammals. It is employed to a greater extent by other types of vertebrates. There are two principal ways to adjust the GFR. One is to vary the rate of filtration into all the nephrons of
+ 
+756	Chapter 29
+ 
+
+the kidneys collectively. The second is to increase or decrease the numbers of nephrons that are actually functioning as filtration units at any given time. The latter strategy is the norm in nonmammalian vertebrates. The rate of filtration into an individual nephron depends on the nephron’s glomerular blood pressure, which is modulated by vasomotor changes in the diameter (and hence flow resistance) of the glomerular afferent vessel. Vasomotor changes of this sort are under the control of the autonomic nervous system and circulating hormones. Variation in the GFR is not the only way in which the rate of production of definitive urine can be controlled. Animals can also modulate the rate at which the nephrons reabsorb filtered fluid prior to excretion; this, in fact, is the preeminent process of urine volume control in mammals, as discussed later.
+
+In addition to ultrafiltration, active solute secretion is the second mechanism by which water and solutes can be moved into kidney tubules to form the primary urine. This is the mechanism employed, for example, by insects and some marine fish.
+
+To see how urine formation can be initiated by secretion, consider Figure 29.2, which presents the essentials of a secretory system in
+a conceptual, stepwise fashion. For simplicity, only two uncharged solutes are assumed to be present. Moreover, the fluid outside the tubule is assumed to be abundant, so that over short periods of time, movements of solutes and water into the tubule do not greatly modify its composition. At the start, which is labeled step ➊, the osmotic pressure and the concentrations of both solutes are equal on the inside and outside of the kidney tubule. In step ➋, an active-transport pump uses energy from ATP to secrete a quantity of solute X into the lumen of the kidney tubule, increasing the inside concentration of X and also increasing the inside osmotic pressure. In step ➌, water moves inward by osmosis—following the osmotic gradient that was set up by secretion of solute X—and the volume of fluid in the tubule increases. Because of this increase in volume, the inside concentra-tion of solute Y, initially the same as the outside concentration, is reduced so that it is now lower than the outside concentration. In step ➍, solute Y diffuses inward following its concentration gradient. Although simplified and artificial, this model system demonstrates that active secretion of even just a single solute into a kidney tubule can
+
+
+Solution in	Solution
+
+tubule	surrounding
+
+tubule
+
+
+
+
+
+
+
+  Tubule
+ 
+
+lead to passive influx of water and other solutes. Thus a complex solution of many solutes can be introduced into the lumen of a kidney tubule from the body fluids bathing the tubule by a secretory mechanism. During the operation of a secretory system, the epithelium of the kidney tubule acts as something of a filter. The permeability of the epithelium to the various solutes that might passively diffuse into the tubular lumen determines which solutes do, in fact, enter.
+
+Whether the process of primary-urine formation is ultrafiltra-tion or secretion, energy is required. In ultrafiltration systems, energy is expended in maintaining a suitably high blood pressure to cause net filtration. In secretory systems, energy is expended by the active-transport pump responsible for solute secretion.
+
+The predominant regulatory processes in kidney function: After primary urine forms, solutes and water are recovered from it for return to the blood, and some solutes are added from the blood
+
+As the fluid introduced into a kidney tubule moves down the tu-bule and through other parts of an animal’s excretory system, it is typically altered extensively in volume and composition before it is eliminated as definitive urine. Most of the water in the primary urine is usually reabsorbed and returned to the blood plasma. Sol-utes may be reabsorbed and returned to the blood—lowering the amounts excreted—or they can be added from the blood.
+
+These processes that occur after primary-urine formation are the predominant regulatory processes in kidney function. That is, they are the predominant processes by which the formation of urine ultimately regulates the composition and volume of the blood plasma and other body fluids. This last statement is of central importance. Regulating the composition and volume of the blood plasma and other body fluids is the function of the kidneys. Their function is not to regulate the urine composition and volume. Instead, the formation of urine is a means to an end. It is a means to the specific end of regulating the body fluids.
+
+As urine flows through a kidney tubule, it is separated from blood capillaries or blood spaces by the epithelial wall of the tubule, a single layer of cells. This epithelium is typically differentiated into distinct regions along the length of the tubule. Within each of these regions, the epithelial cells express distinctive membrane proteins, such as ion channels, transporters, and aquaporins; and the cells may have a distinctive structure. These properties give each region of the tubule
+
+distinctive abilities to reabsorb water and solutes from
+
+the tubular fluid—returning them to the blood—and to secrete solutes from the blood into the tubular fluid. The processes carried out by each region of a kidney tubule, and the permeability properties of each region, are commonly under endocrine control and hormonally modulated in regulatory ways.
+
+ 
+
+1
+
+
+
+KEY
+
+
+Solute X
+
+Solute Y
+ 
+
+
+2	3	4
+Energy from ATP is	…water enters the	…solute Y diffuses
+used to secrete solute	tubular fluid by	inward, following its
+X into the tubule,	osmosis, diluting	concentration gradient.
+increasing the	solute Y. Because Y is	
+osmotic pressure of	then diluted inside…	
+the tubular fluid.		
+Consequently…		
+
+ 
+
+FIGURE 29.2 Formation of primary urine by active solute secretion In this model system, there are two uncharged solutes. Although the renal tubule is completely surrounded by the outside solution, only a small sample of the outside solution is shown at the upper right of the tubule in each step. For simplicity, the outside solution is assumed to stay constant in volume and composition. Movement of water into the tubule is represented by an increase in the length of the tubule filled with solution.
+ 
+
+
+In mammals, the regulatory exchange of solutes and water between urine and blood is complete (and the composition of the definitive urine is fixed) when the urine leaves the kidneys. This is not always the case, however. In many types of animals, solutes and/or water are further exchanged between the urine and blood in the urinary bladder, cloaca, or other postrenal (“after kidney”) structures, before the urine is finally excreted from the body.
+
+
+
+SUMMARY Basic Mechanisms of Kidney Function
+
+Primary urine is formed by ultrafiltration or by active solute secretion.
+
+	During ultrafiltration, fluid is driven by elevated hydrostatic pressure from the blood plasma into the kidney tubules through intervening epithelia and basement membranes that act as a filter. The filtrate, which is the primary urine, is almost identical to blood plasma in its composition, except that it lacks high-molecular-weight solutes such as plasma proteins.
+
+In cases in which primary urine is formed by active solute secretion, the process that initiates and drives primary-urine formation is the active transport of one or more solutes into the kidney tubules. Water then follows by osmosis, and other solutes enter by diffusion, following electrochemical gradients set up by the active solute transport and osmosis.
+
+As primary urine flows through the kidney tubules, it undergoes exchange with the blood plasma by active or passive transport of solutes and by osmosis of water across the epithelial walls of the tubules. These processes are the predominant regulatory processes in the kidney tubules: They determine the ways in which the production of urine ultimately alters the composition and volume of the blood plasma. The urine produced by the kidneys is sometimes (as in mammals) the definitive urine, but in many animals, further regulatory exchange between urine and blood occurs by postrenal processing.
+
+
+Urine Formation in Amphibians
+ 
+Kidneys and Excretion	757
+
+
+
+
+(a) An unfolded nephron
+
+Distal	Intermediate
+
+convoluted	segment
+tubule
+Proximal
+
+convoluted
+
+tubule
+
+Neck
+Bowman’s
+
+capsule
+
+Collecting tubule  
+
+Collecting duct   
+
+(b) A nephron in its natural configuration in the kidney
+
+  Collecting duct
+
+
+  Collecting tubule
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intermediate
+
+segment
+
+Bowman’s capsule  
+ 
+
+The amphibians provide an excellent starting point for the study of vertebrate nephron function. Much is known about the amphibian nephron because of practical considerations that make the nephrons of amphibians relatively easy to study. Furthermore, the amphibian nephron can reasonably be considered a “generalized” vertebrate nephron. Our purpose in this section is not only to describe how amphibians form urine, but also to bring out many additional gen-eral principles of vertebrate kidney function by example.
+
+Each nephron of an amphibian (Figure 29.3a,b) consists of (1) a Bowman’s capsule; (2) a convoluted segment known as the proximal convoluted tubule; (3) a short, relatively straight segment of small diameter, the intermediate segment; (4) a second convoluted segment known as the distal convoluted tubule; and (5) a relatively straight
+ 
+
+
+KEY
+
+Proximal convoluted tubule Early distal convoluted tubule
+
+Late distal convoluted tubule
+
+
+(c) A collecting duct showing attachment of many nephrons
+
+Collecting tubule
+
+of a single nephron
+ 
+
+
+
+
+
+
+
+100 μm
+
+
+
+Collecting duct
+
+
+Many nephrons discharge into a single collecting duct. All
+ 
+
+FIGURE 29.3 Amphibian nephrons and their connections to collecting ducts (a) An unfolded amphibian nephron. (b) A nephron of the toad Bufo bufo, shown realistically in its natural configuration. Symbols help to trace the nephron along the course of its intricate geometry. Two of the segments— part of the proximal convoluted tubule and part of the late distal convoluted tubule—are shown in cross section at greater magnification than the main drawing. (c) A single collecting duct, showing the con-
+nections of the collecting tubules of many nephrons. (b after Møbjerg et al. 1998; c after Huber 1932.)	To ureter  
+ 
+
+the collecting ducts in a single kidney discharge into a single ureter.
+ 
+758	Chapter 29
+
+segment, the collecting tubule.4 The nephrons are microscopic in		permeable to water.6 Water therefore moves out of the tubular
+diameter but macroscopic in length; in an average-sized toad, for		fluid by osmosis rapidly enough that the active reabsorption of
+example, each might be 1 cm long. Hundreds or thousands of neph-		NaCl does not produce a lower osmotic pressure in the tubular
+rons are found in each kidney, and the nephrons constitute much		fluid than in the blood; the water is said to undergo near-isosmolar
+of the bulk of the kidney tissue. In each nephron, the structure and		transport driven by the NaCl reabsorption. In those species of
+function of the nephron epithelium change along the length of the		amphibians that have been studied, 20–40% of the filtered NaCl
+nephron, from one segment to the next of the major nephron seg-		and water are reabsorbed in the proximal tubule. Even as these
+ments we have described. Structure and function also often change		large amounts of NaCl and water are reabsorbed, the concentra-
+within each major nephron segment (e.g., along the length of the		tions of ions and water in the tubular fluid—as shown in Figure
+distal convoluted tubule). In each kidney, the collecting tubules of		29.4—remain unaltered because ions and water are removed in
+all the nephrons feed into collecting ducts (Figure 29.3c), and all the		proportion to each other (Box 29.1).						
+collecting ducts connect to a single ureter, which carries fluid from				Another important process that takes place in the proximal tubule
+the kidney to the bladder.							is the reabsorption of glucose. Glucose in the blood plasma is a valu-
+The proximal convoluted tubule reabsorbs much of			able metabolite that—because of its small molecular size—cannot
+			be withheld from the primary urine during ultrafiltration. However,
+the filtrate—returning it to the blood plasma—without		
+		in amphibians and other vertebrates, glucose is promptly reclaimed
+changing the osmotic pressure of the tubular fluid			
+			and returned to the blood. Glucose is reabsorbed into the cells of
+								
+The amount of water filtered each day by the kidneys typically far		the proximal tubule (and then passed to the blood) by secondary
+exceeds the amount that needs to be excreted. The same can be said		active transport driven by the primary active transport of Na+—a
+of Na+ and Cl–, which are the principal solutes in the blood plasma		mechanism similar to that diagrammed in Figure 5.12. Amino acids
+and therefore also in the filtrate: Na+ and Cl– enter the Bowman’s		are also valuable organic molecules that are freely carried into the
+capsules as briskly as water does, yet amphibians often need ulti-		Bowman’s capsules by ultrafiltration because of their small size. Their
+mately to conserve Na+ and Cl– to the maximum possible extent (see		reabsorption begins in the proximal tubule. Box 29.2 discusses some
+page 720). A high rate of filtration ensures that the nephrons												
+have intimate access to the blood plasma to perform regulatory												
+functions, as noted earlier. However, a high filtration rate also			Na+ and Cl– are reabsorbed in the proximal	…the walls of the distal convoluted
+necessitates reabsorption of much of the water and NaCl filtered.				
+			convoluted tubule, but because the tubule	tubule are poorly permeable to
+The reabsorption begins in the proximal convoluted tubule.				
+			is freely permeable to water, water leaves	water in animals in diuresis. Thus, as
+Na+ is actively reabsorbed across the walls of the proximal			the tubular fluid by osmosis fast enough	Na+ and Cl– are reabsorbed in the
+tubule. Cl– may also be reabsorbed actively in some species,			that the fluid remains approximately isos-	distal convoluted tubule, the tubular
+but in general its reabsorption is passive, induced							motic to the blood plasma. In contrast…	fluid becomes ever-more dilute.
+																
+by the electrical gradient set up by active Na+																
+reabsorption. Although the quantities of Na+	Bowman’s capsule			Proximal tubule				Distal tubule		Ureter
+and Cl– reabsorbed in the proximal tubule are	Osmoticpressure(approximatepercentagedeviationfromplasmaosmoticpressure)						+20									
+substantial, the osmotic pressure of the tubu-					Cl	fromplasmaCl				Cl– concentration, frog						
+		–40	deviation	concentration)										
+lar fluid does not fall in the proximal tubule.														
+		0					0									
+Instead, the tubular fluid—which is isosmotic																
+																
+to the blood plasma when introduced into the		–20			(percentage–	–20									
+															
+Bowman’s capsule by ultrafiltration5—remains															
+																
+isosmotic to the plasma as it flows through the																
+																
+proximal tubule. Its osmotic pressure remains		–60			concentration		–40									
+																
+unchanged because as NaCl is reabsorbed, a																
+																
+proportional reabsorption of water from the		–80				–60									
+tubular fluid occurs simultaneously. The epi-										Osmotic pressure, mudpuppy						
+										Osmotic pressure, frog						
+thelial walls of the proximal tubule are freely																
+										–						
+						–		–80			Cl  concentration, mudpuppy						
+																	
+4 The names of the nephron segments are not standardized.							–100									
+																
+																
+For example, the collecting tubule is sometimes called the																
+							0	0.5	1.0	0	0.5	1.0
+initial collecting duct.												
+																
+5 The difference in osmotic pressure that actually exists										Fraction of distance				Fraction of distance		
+between the filtrate and the blood plasma—the colloid																
+										along proximal tubule				along distal tubule		
+osmotic pressure—is large enough to affect filtration, as																
+																
+discussed earlier (see Figure 29.1c). However, not only in	FIGURE 29.4	Urine formation in amphibians during diuresis	The osmotic pressure
+amphibians but also in other vertebrates, the difference in			
+	and Cl– concentration of urine as it flows through the nephrons of two species of amphib-
+osmotic pressure is less than 1% of the absolute osmotic	
+	ians—the semiterrestrial leopard frog (Rana pipiens) and the aquatic mudpuppy (Necturus
+pressure of either the filtrate or plasma. Thus for most	
+	maculosus)—when the animals are in diuresis. Fluid was sampled for analysis by use of		
+purposes, the filtrate and the plasma can be considered			
+isosmotic.	minute pipettes inserted into the nephrons (see Box 29.2). Concentrations are expressed as
+6 This high permeability is presumably a consequence of	percentage deviations from plasma concentrations; for example, a value of –40 indicates that
+abundant constitutive (i.e., chronically present) aquaporins	the concentration in the tubular fluid was below the plasma concentration by an amount equal
+in the cell membranes of the epithelial cells.	to 40% of the plasma concentration. (After Walker et al. 1937.)						
+
+ 
+
+
+of the methods used to study kidney function: methods that have played important roles in creating the knowledge discussed here and throughout the chapter.
+
+The distal convoluted tubule can differentially reabsorb water and solutes, thereby regulating the ratio of water to solutes in the body fluids
+
+Active reabsorption of NaCl from the tubular fluid continues in the distal convoluted tubule. In this way, the quantity of NaCl destined for excretion from the body—that is, removal from the body flu-ids—is gradually lowered toward the level that is appropriate for maintenance of internal NaCl balance.
+
+A major function of the distal convoluted tubule in many amphibians—a function that may be shared by the collecting ducts and urinary bladder—is control of the excretion of pure water, often termed osmotically free water. By controlling the excretion of free water, the distal tubule controls the amount of water in the body fluids. Recall from Chapter 28 (see page
+
+750)	that the water in urine may be considered to consist of two parts: (1) water that is required to accompany excreted solutes and (2) additional water that may be excreted but is not required for solute excretion. The second component may be considered to represent an excretion of pure, or “free,” water—a regulated removal of water from the body fluids—precisely because it is not required for solute excretion.
+
+In amphibians, the amount of water that is required to be excreted with solutes is determined by the fact that the maximum possible osmotic U/P ratio is 1.0: The urine osmotic pressure cannot exceed
+
+
+
+BOX 29.1	QUANTITY VERSUS CONCENTRATION
+
+When analyzing kidney function, it is important to main-tain a clear distinction between measures of quan-tity (or mass) and measures of concentration. The
+
+importance of this distinction is illustrated nicely by the events in the proximal tubule of amphibians. As shown in Figure 29.4, the concentrations of Na+, Cl–, and water in the tubular fluid remain, on average, unchanged. Yet, the quantities of these substances exiting the proximal tubule are much lower than those entering.
+
+Measures of quantity and concentration are each informa-tive, although in different ways. Quantity is an absolute measure, whereas concentration is a relative measure (quantity of solute relative to quantity of water). As a general principle, measures of quantity provide the most direct insight into questions of salt and water balance. For instance, to determine whether an animal is in Na+ balance, you would measure the quantity of Na+ gained per day and the quantity lost per day (including the quantity lost in urine) and compare them. Although urine concentrations are not directly useful for balance calculations, concentrations provide the most direct insight into the effects of urine production on blood composition. For instance—as explained in Figure 27.7—if you wanted to know whether the kidneys are lowering the Na+ concentration of the blood plasma, you would examine the urine Na+ concentration relative to the plasma Na+ concentration. Urine production is lowering the plasma Na+ concentration if the urine Na+ concentration is greater that the plasma Na+ concentration (meaning that Na+ U/P > 1.0).
+ 
+Kidneys and Excretion	759
+
+
+
+BOX 29.2	METHODS OF STUDY OF KIDNEY FUNCTION: MICROPUNCTURE AND CLEARANCE
+
+Some of the methods used to study kidney function, al-though technically difficult, are intuitively easy to under-stand. A technique of this sort that has revolutionized
+
+renal physiology is micropuncture. Fine micropipettes are inserted into individual nephrons at identified points, permitting samples of tubular fluid to be withdrawn for analysis of composi-tion. Such samples from amphibian nephrons reveal, for example, that the glucose concentration falls virtually to zero by the end of the proximal convoluted tubule. This is how we know that the proximal tubule is the site of glucose reabsorption.
+
+A method that is not so intuitively simple to understand—but important in both physiological research and medical practice—is the study of renal clearance. Clearance studies are used to measure the glomerular filtration rate and can be used to quantify the reabsorption or secretion of solutes in the renal tubules. Box Extension 29.2 explains the principles and uses of renal clear-ance studies.
+
+
+the plasma osmotic pressure.7 This means that at least enough water must be excreted with solutes in the urine to create a solution that is isosmotic to the blood plasma. If the urine osmotic pressure of an amphibian in fact equals the animal’s plasma osmotic pressure, the urine contains only water that is required for solute excretion. That is, the urine contains no water of the second kind: no pure, osmotically free water. However, if the urine osmotic pressure of an amphibian is less than the animal’s plasma osmotic pressure (osmotic U/P < 1), the urine carries an “extra” quantity of water, an amount not strictly required by solute excretion. This extra quantity represents an excretion of pure water—removal of water from the body fluids. This excretion of pure water can be varied: The more dilute the urine, the more free water it contains. Thus an animal can control its excretion of water independently of its excretion of solutes by varying the osmotic pressure of its urine.
+
+The extent of pure-water excretion is controlled in the distal convoluted tubule by varying the degree to which osmotic water reabsorption keeps pace with solute reabsorption there. The extent of water reabsorption is controlled by modulating the permeability of the walls of the tubule to water. This control of permeability is exercised at least partly by antidiuretic hormone (ADH) secreted by
+the neurohypophysis (posterior pituitary gland).8 As we now explain these points, refer to Figure 29.5 for a visual summary.
+
+When ADH levels are low (see Figure 29.5a), the permeability of the wall of the distal convoluted tubule to water is low. Conse-quently, NaCl and water reabsorption from the tubular fluid are significantly uncoupled. The active reabsorption of NaCl tends to dilute the tubular fluid and thus create an osmotic gradient that favors water reabsorption by outward osmosis. However, the low permeability of the tubule wall to water impedes osmosis. This
+
+
+7	Recall from Chapter 27 that the osmotic U/P ratio is the ratio of urine osmotic pressure to plasma osmotic pressure.
+
+8 The antidiuretic hormone of amphibians, birds, and nonavian reptiles is arginine vasotocin; see Table 16.2 on page 429.
+ 
+760	Chapter 29
+
+(a)  Diuresis (low ADH)
+
+Actively driven NaCl
+
+reabsorption
+
+Tubule wall poorly	Osmotic water
+	reabsorption
+permeable to water	
+	
+
+To
+NaCl
+ureter
+
+Water
+ 
+
+
+large amounts of water from the body fluids and has a high content of pure, osmotically free water.
+
+When ADH levels are high (see Figure 29.5b), the presence of ADH induces the wall of the late distal convoluted tubule (the half or so of the distal tubule closest to the collecting tubule) to become relatively permeable to water, and the distal tubule then functions more like the proximal tubule. Osmotic water reabsorption is promoted. Thus, as NaCl is reabsorbed, more water is reabsorbed than when ADH levels are low. Again, there are three comple-mentary consequences. First, a relatively large amount of water is returned to the body fluids. Second, the tubular fluid stays more
+ 
+
+During diuresis, as NaCl is reabsorbed, relatively little water is reabsorbed with it, meaning that…
+
+(b) Antidiuresis (high ADH)
+
+
+Tubule wall
+
+permeable to water
+
+NaCl
+
+Water
+ 
+
+…a large fraction of the water remains in the tubule—resulting in a voluminous, dilute urine.
+ 
+
+nearly isosmotic to the blood plasma than when ADH levels are low. Third, a smaller proportion of the water that enters the distal tubule passes through to be excreted. In the presence of high levels of ADH, therefore, the urine is relatively concentrated and scanty. It contains relatively small amounts of water extracted from the body fluids and carries away little or no pure, osmotically free water.
+
+You can see now why ADH has the name it does. Recall from Chapter 28 that diuresis is production of abundant urine. High levels of ADH promote the opposite: antidiuresis.
+
+ADH is believed to control the water permeability of the am-phibian distal convoluted tubule by controlling the insertion and retrieval of aquaporin proteins (see page 774) in cell membranes in parts of the tubular epithelium. When the level of ADH is high,
+ 
+During antidiuresis, as	…only a small fraction of the
+
+NaCl is reabsorbed, water	water remains in the tubule—
+
+is readily reabsorbed with	resulting in a small volume of
+
+it, meaning that…	relatively concentrated urine.
+
+FIGURE 29.5 Major solute and water fluxes in the late distal convoluted tubule during diuresis and antidiuresis The pathways followed by NaCl and water are symbolized by the relative sizes of the arrows. (a) In diuresis, low permeability of the tubule walls to water impedes osmotic water reabsorption; thus a relatively large fraction of the water remains in the tubule, and the ratio of solute to water (the osmotic pressure) in the tubular fluid is dramatically reduced. (b) In an-tidiuresis, the tubule walls are more permeable to water; thus a larger fraction of the water is reabsorbed, and the ratio of solute to water in the tubular fluid is affected relatively little. This conceptual diagram is simplified in two ways: First, it assumes that NaCl and water reab-sorption occur in the same parts of the tubule, and second, it ignores solutes other than NaCl (e.g., urea).
+
+limitation of water reabsorption has three important and comple-mentary consequences. First, relatively little water is returned to the body fluids. Second, NaCl reabsorption makes the tubular fluid more dilute than the blood plasma, both in osmotic pressure and in ion concentrations. This dilution is progressive: As fluid flows through the distal tubule, the fluid becomes ever-more dilute as ever-more ions are reabsorbed from it (see Figure 29.4). The active reabsorption of solutes from the urine across tubule walls that are poorly permeable to water is, in its fundamentals, the universal mechanism by which animals make urine hyposmotic to the blood plasma, and we see that mechanism in action here. The third principal consequence of low permeability to water in the amphibian distal convoluted tubule is that a high proportion of the water that enters the distal tubule passes through to be excreted in the urine. Considering the second and third consequences together, one can see that in the presence of low levels of ADH, the urine is dilute and voluminous. It carries away far more water than is necessary just to excrete solutes; thus it extracts relatively
+ 
+
+aquaporins are inserted into the cell membranes, and—with the water channels therefore in place in the cell membranes—water can pass through the epithelium relatively readily by osmosis. When the level of ADH is low, aquaporins are retrieved from the cell membranes (i.e., returned to intracellular locations where they are nonfunctional), and osmosis through the epithelium is impeded. More will be said of aquaporin function later in this chapter, when we discuss mammals.
+
+Active H+ secretion into the tubular fluid is an additional function that is known to occur in the distal convoluted tubule. The amount of H+ added is adjusted to maintain a normal pH in the body fluids.
+
+ADH exerts an elaborate pattern of control over nephron function
+
+In amphibians—and also in birds, lizards, and other reptiles—ADH not only increases the permeability of parts of the distal convoluted tubule to water, but also decreases the glomerular filtration rate. Specifically, ADH reduces the GFR in these vertebrate groups by reducing the numbers of actively filtering nephrons, an effect me-diated by inducing vasoconstriction in glomerular afferent blood vessels. The decrease in GFR tends to reduce urine flow and promote water retention in the body, thereby complementing the increase in water reabsorption induced by ADH in the distal tubules.
+
+ADH has also been shown in some frogs and toads to increase the rate of active NaCl reabsorption from the renal tubules. This effect, like the others mentioned, also tends to reduce urine volume and promote water retention because it enhances solute-driven water reabsorption and decreases the solute load of the urine.
+
+Clearly, ADH mediates a multifaceted pattern of control over nephron function. If an amphibian experiences excess water influx—as can occur during immersion in freshwater—secretion of ADH is reduced. Then the GFR is relatively high, distal-tubule reabsorption of water is relatively low, and a voluminous, dilute urine results. If dehydration sets in, ADH is secreted from the
+ 
+
+
+neurohypophysis, apparently under the control of osmoreceptors (which detect an increase in body-fluid osmolarity) and of pressure or stretch receptors (which signal a decrease in blood volume). The ADH induces a reduction in GFR, an increase in distal-tubule water reabsorption, and an increase in NaCl reabsorption, thereby promoting water retention and production of a scanty, concentrated urine. The renal responses to ADH are not as well developed in some amphibian species from consistently moist or wet habitats as they are in species that are more terrestrial and thus more likely to experience dehydration (see pages 744–745).
+
+The bladder functions in urine formation in amphibians
+
+In many species of amphibians, the bladder not only stores urine but also plays a substantial role in adjusting the volume and com-position of the urine. In these species, the function of the bladder can be described very much in the way we have described that of the distal convoluted tubules. The bladder wall is poorly permeable to water when ADH levels are low but becomes quite permeable to water when ADH levels are high; the participation of aquaporins in these changes of permeability in the amphibian bladder has been directly demonstrated. NaCl is actively reabsorbed across the blad-der wall, and this reabsorption is stimulated by ADH.
+
+The amphibian excretory system has mechanisms to promote excretion of urea
+
+Urea is the principal compound used to excrete waste nitrogen in most adult amphibians. The nephrons, bladder, and other excretory passages of adults seem generally to be poorly permeable to urea; thus urea introduced into the tubular fluid tends to be retained in it and removed from the body by excretion. Filtration is one process by which urea enters the nephrons, and in many amphibians it is probably the sole process. However, in at least some ranid frogs (e.g., bullfrogs), urea is also actively secreted into the tubular fluid across the nephron walls. As water is reabsorbed from the tubular fluid, urea in the fluid tends to be concentrated.
+
+
+
+SUMMARY Urine Formation in
+
+Amphibians
+
+A primary function of the proximal convoluted tubule of the amphibian nephron is the return of both water and solutes to the body fluids by the isosmotic reduction of urine volume. NaCl is actively reabsorbed from the tubular fluid. Because the epithelial wall of the proximal tubule is permeable to water, water exits the tubular fluid by osmosis, keeping the tubular fluid isosmotic to the blood plasma.
+
+Glucose and amino acids are actively reabsorbed from the tubular fluid in the proximal tubule, returning them to the body fluids.
+
+The distal convoluted tubule differentially returns water and solutes to the body fluids; in the process it determines the volume and osmotic concentration of the definitive urine produced by the kidney. An important mechanism by which control of distal tubule function is exercised is that the epithelial wall of the distal convoluted tubule can have high or low permeability to water, depending on blood levels of antidiuretic hormone (ADH) secreted by the neurohypophysis (posterior pituitary).
+ 
+Kidneys and Excretion	761
+
+
+
+When ADH levels are low, the distal tubule epithelium is poorly permeable to water. Active reabsorption of NaCl returns NaCl to the body fluids and dilutes the tubular fluid. However, relatively little water is returned to the body fluids because water cannot readily move out of the tubular fluid by osmosis. The volume of the tubular fluid remains high, and both the osmotic pressure and the NaCl concentration of the fluid become progressively lower as the tubular fluid flows through the tubule.
+
+	When ADH levels are high, aquaporins are believed to be inserted into cell membranes in the distal tubule epithelium, causing the water permeability of the epithelium to become high. As active reabsorption of NaCl takes place, osmosis carries water out of the tubular fluid. Thus relatively high amounts of water
+are returned to the body fluids. The volume of the tubular fluid is reduced, and the fluid remains similar to the blood plasma in its osmotic pressure and NaCl concentration.
+
+
+Urine Formation in Mammals
+
+The nephrons of amphibians, as noted earlier, may reasonably be considered to represent the generalized vertebrate condition. The nephrons of lizards, snakes, turtles, and crocodilians resemble them. Mammalian nephrons differ, however. Compared with an amphibian nephron, each nephron of a mammal has an added, long segment of tubule, positioned between the proximal and distal convoluted tubules. This added segment is arranged in the shape of a hairpin loop and—having first been described by Jacob Henle in the 1860s—is called the loop of Henle (pronounced Hen-lee). An additional “innovative” feature of the mammalian kidney is that the loops of Henle of the various nephrons in a kidney, along with the collecting ducts, are arranged in parallel arrays, giving the kidney a pronounced macroscopic structure not seen in the kidneys of amphibians or reptiles. The loops of Henle and their parallel arrangement provide the anatomical basis for the pro-duction of urine that is more osmotically concentrated than blood plasma: hyperosmotic urine. Amphibians, lizards, snakes, turtles, and crocodilians—lacking these anatomical attributes—cannot produce hyperosmotic urine.
+
+We saw in Chapter 28 that the ability of mammals to concentrate their urine is one of their most dramatic and important adaptations for life on land. Now, as we study the mammalian kidney, we will examine the mechanism by which their urine is concentrated. Mechanisms for producing urine that is hyperosmotic to the blood plasma might seem simple to evolve. The history of life offers a very different verdict, however. In the entire animal kingdom, only three major groups have mastered the task: mammals, birds, and insects. In each case, the ability to concentrate the urine has opened up new habitats and ways of life—such as by aiding certain small mammals, like the kangaroo rats described at the start of this chapter, to survive as seed eaters in deserts. Thus, as we examine the mammalian mechanism of concentrating urine, we focus on a physiological at-tribute of enormous ecological and evolutionary significance.
+
+The nephrons, singly and collectively, give the mammalian kidney a distinctive structure
+
+The loop of Henle in a mammalian nephron consists of two long and parallel tubes, termed limbs, connected by a hairpin bend: The descending limb leads from the proximal convoluted tubule to the
+ 
+762	Chapter 29
+
+(a)  Kidney in sagittal section	FIGURE 29.6 The human kidney, emphasizing the nephrons and their blood
+				Cortex	supply  (a) A sketch of a kidney in sagittal section, showing the basic features of
+					kidney structure. (b) A more detailed look at nephrons and their blood supply. The
+				Medulla	structures of the nephrons and vasculature seen in (b)—and the subdivision of the
+					
+				Renal pelvis	kidney into cortex and medulla—are similar in all mammals, although the gross shape
+					
+				Ureter	of the kidney varies. (b after Smith 1951.)
+					
+					Nephron with outer
+(b)  Detail of nephrons and blood supply	cortical Bowman’s capsule
+	and short loop of Henle
+
+ 
+
+
+
+
+
+
+Proximal convoluted tubule
+
+Bowman’s capsule
+
+Peritubular capillary
+
+
+Distal convoluted tubule
+ 
+
+Nephron with
+
+juxtamedullary
+
+Bowman’s capsule
+
+and long loop of
+
+Henle	Artery
+
+Cortex
+
+ 
+
+ Thin segment
+Thick segment of descending
+Vein
+limb of loop of Henle
+	Outer zone
+Thick segment of ascending	of medulla
+	
+limb of loop of Henle	Collecting duct
+	
+
+
+
+ Vasa recta
+
+Collecting duct  
+
+  Thin segment of                                   Inner zone
+
+loop of Henle	of medulla
+
+
+
+
+
+Collecting duct
+
+discharges to
+
+renal pelvis
+ 
+
+
+
+
+
+
+
+Medulla
+ 
+
+
+bend, and the ascending limb runs from the bend to the distal con-voluted tubule (Figure 29.6b). The descending limb begins with a segment of relatively large diameter termed a thick segment, and
+
+the ascending limb terminates with a thick segment. Interposed between these thick segments, at various positions and for various lengths, is a segment of very small diameter, the thin segment. The epithelium of the thin segment differs cytologically from that of the intermediate segment discussed earlier and occurs only in mam-mals and birds. The loop of Henle varies considerably in length among species of mammals and among the nephrons within the kidneys of any one species.
+
+As can be seen in Figure 29.6b, the Bowman’s capsules and convoluted tubules of the nephrons in each kidney of a mammal are aggregated toward the outer surface of the kidney, whereas the loops of Henle and collecting ducts project inward, toward the
+ 
+
+
+renal pelvis, a tubular structure that represents the expanded inner end of the ureter that drains the kidney (Figure 29.6a). Because of
+
+this highly ordered arrangement of the renal tubules, histologically distinct layers are evident in the gross structure of the kidney tissue. In sagittal section, the tissue of each kidney consists of an outer layer, the cortex, which surrounds an inner body of tissue, the medulla (see Figure 29.6a). The cortex (see Figure 29.6b) consists of Bowman’s capsules, convoluted tubules, the beginnings of collecting ducts, and associated vasculature. The medulla consists of loops of Henle and collecting ducts, as well as their associated vasculature. Within the medulla, the loops of Henle and collecting ducts run in parallel to one another.
+
+To get oriented to fluid-flow patterns in the mammalian kidney, let’s now trace the path of fluid through a nephron, focusing on the nephron to the left in Figure 29.6b. After filtration into the Bow-
+ 
+Kidneys and Excretion	763
+ 
+
+man’s capsule, fluid moves first through the proximal convoluted tubule and then descends into the medulla in the loop of Henle. After rounding the bend of the loop, the fluid returns to the cortex, passes through the distal convoluted tubule, and leaves the nephron to enter a collecting duct. The fluid then again passes through the medulla, this time in the collecting duct. After the fluid is discharged from the collecting duct into the renal pelvis, it flows into the ureter and to the bladder to be excreted. A convention worthy of note is that when fluid flows from the cortex toward the medulla, it is said to move deeper into the kidney.
+ 
+
+
+(a) Sagittal section of a generalized mammalian kidney
+
+Cortex  
+
+Medulla  
+
+Renal papilla  
+ 
+
+The renal papilla, when explicitly present, is the part of the medulla that tends to project into the lumen of the renal pelvis.
+
+
+Renal pelvis
+
+  Ureter
+ 
+
+We have already mentioned that the various nephrons in the kidney of a species may have loops of Henle of different lengths. Nephrons differing in this regard are positioned differently within the kidney, a fact that contributes to gross kidney structure. As can be seen at the left side of Figure 29.6b, there is a region deep in the medulla—termed the inner zone of the medulla—that is defined by the fact that the only loop elements present are thin descending and ascending segments of relatively long loops of Henle. The sur-rounding, more superficial layer of the medulla is the outer zone. Loops of Henle that project into the inner zone are termed long loops. Loops that turn back within the outer zone of the medulla or within the cortex are called short loops. The thin segments of long and short loops of Henle differ cytologically. Bowman’s capsules may be positioned near the outer cortical surface, at mid-depth in the cortex, or within the cortical tissue next to the medulla; the last location is termed the juxtamedullary (“near the medulla”) position. As depicted in Figure 29.6b, nephrons with short loops tend to have their Bowman’s capsules positioned toward the outer cortex, whereas those having long loops tend to have midcortical or juxtamedullary capsules. Laboratory rats have about 30,000 nephrons of all types combined in each kidney. Domestic dogs have about 400,000, and humans have 0.4–1.2 million.
+
+A final morphological feature of importance is that the thick ascending segment of each nephron, near its outer (upper) end, passes immediately next to the Bowman’s capsule of the very same nephron.9 At this point, the wall of the thick ascending segment is modified, forming a set of specialized cells, the macula densa. The macula densa and other associated cells form a structure called the juxtaglomerular apparatus.10 Specialized vascular endothelial cells in this apparatus are responsible for secreting the key hormone renin, which controls secretion of another hormone, aldosterone, which is a major controller of renal ion excretion (see page 441 and Figure 16.17).
+
+Comparative anatomy points to a role for the loops of Henle in concentrating the urine
+
+Even before the physiology of the loops of Henle began to be under-stood, morphological evidence strongly suggested that the loops are intimately involved in the production of urine that is hyperosmotic to the blood plasma. This evidence helped to center attention on the physiology of the loops.
+
+One type of comparative morphological evidence comes from studies of certain species of mammals—characteristic of freshwater environments—that lack long loops of Henle and have only short
+
+
+9	Figure 29.6b is drawn to emphasize other features and does not show this.
+
+10	Be certain not to confuse the juxtamedullary capsules and the juxtaglomerular apparatus.
+ 
+
+(b) Comparative kidney structure in insectivores and rodents from aquatic, mesic, and arid habitats
+
+
+There is little or no		…the renal papilla is highly
+development of the renal		developed in species native to arid
+papilla in freshwater aquatic	habitats, so much so that it often
+species. However,…		penetrates well into the ureter.
+Aquatic species	Mesic species	Arid species
+
+Aquatic mole		European hedgehog		Elephant shrew
+(Desmana moschata)		(Erinaceus europaeus)		(Macroscelides sp.)
+				
+		INSECTIVORES		
+
+
+
+
+
+
+
+Beaver	Squirrel	Gerbil
+
+(Castor fiber)	(Sciurus vulgaris)	(Gerbillus pyramidum)
+
+
+
+
+
+Water rat	Black-bellied	Jerboa
+(Hydromys	hamster	(Jaculus jaculus)
+chrysogaster)	(Cricetus cricetus)	
+
+RODENTS
+
+FIGURE 29.7 Evolutionary development of the renal papilla in mammals native to different habitats (a) Sagittal section of a gen-eralized mammalian kidney, showing the location of the renal papilla. (b) Kidney structures of insectivores (e.g., shrews and moles) and rodents (e.g., rats and squirrels) from aquatic, mesic, and arid habitats. (After Sperber 1944.)
+
+
+loops, so that they have no inner medulla. Hippos, mountain beavers (Aplodontia), and muskrats are examples. Such species are noted for having only meager abilities to concentrate their urine. Long loops are essential for achieving high urinary concentrations; in mammals that achieve high concentrations, at least 15–20% of the nephrons have long loops of Henle.
+
+Another type of comparative morphological evidence comes from studies of the renal papilla (Figure 29.7a). Not all mammals
+
+have a grossly apparent renal papilla. Commonly, however, the
+ 
+764		Chapter 29											
+	10,000				very thick medulla compared with all species of mice merely because
+Maximum urine concentration(milliosmol/kgwater)					humans are more than 1000 times larger than mice. To remove the
+	8000				effects of absolute kidney size, medullary thickness is expressed as
+					a ratio of kidney size. This ratio is called relative medullary thick-
+					
+	6000				ness. A high relative medullary thickness means that the longest
+					loops of Henle are long relative to the overall dimensions of the
+					
+	4000				kidney. By now, data are available on many species, and as Figure
+					29.8 shows, urinary concentrating ability is strongly correlated with
+					relative medullary thickness: Species with high relative medullary
+	2000				thickness tend to be able to produce especially concentrated urine.
+					The latest incarnation of Sperber’s work is shown in Figure
+						
+		0				29.9, where relative medullary thickness is plotted as a function
+			5	10	15	of body weight (size) for mammals from several types of habitats.
+		0				
+			Relative medullary thickness		This modern analysis reveals that the relative thickness of the
+FIGURE 29.8 Maximum urine concentration correlates with the rel-	medulla tends to decrease allometrically with body size (just as
+	concentrating ability tends to decrease with body size, as seen in
+ative thickness of the medulla  The relation is plotted for 68 species	
+of mammals, each point representing a different species. The relative		Figure 28.20). Habitat, however, is a significant factor. At any given
+medullary thickness is a dimensionless number. To calculate it, an index	body size, mammals from arid habitats tend to have the thickest
+of kidney size is first calculated by taking the cube root of the product of	medullas and longest loops of Henle, whereas those from freshwater
+the three principal linear dimensions (length, width, and thickness) of the	
+	aquatic habitats have the thinnest and shortest, and those from
+kidney. Medullary thickness is then expressed as a ratio of the index of		
+		intermediate mesic habitats are in between.			
+kidney size to obtain relative medullary thickness. (After Beuchat 1990.)				
+						A dramatic morphological comparison of the kidneys of three
+						species of rodents of roughly similar body size is seen in Figure 29.10.
+renal medulla has a roughly pyramidal shape and forms a projec-	Two of the species, the Mongolian gerbil and sand rat, evolved in
+tion into the lumen of the renal pelvis. This projection, the renal	deserts. Both have far more-prominent renal papillae (singular papilla)
+papilla, is composed in major part of long loops of Henle. Thus	and thicker medullas than the laboratory rat (see Figure 29.10a–c).
+the prominence of the renal papilla provides an indication of the	Moreover, the sand rat has a thicker, longer papilla than the gerbil.
+number and length of long loops in a mammal’s kidney. In 1944,	Detailed studies of the sand rat reveal that its renal medulla is par-
+Ivar Sperber (1914–2006) reported seminal observations on the	ticularly elaborately organized; in comparison with most mammals,
+papilla in about 140 species of mammals from diverse habitats.	an especially high proportion of the long loops of Henle in the sand
+He found that the papilla was uniformly poorly developed in spe-	rat extend far into the papilla (see Figure 29.10d), rather than turning
+cies inhabiting freshwater habitats. The papilla was more evident	back only a fraction of the way toward the tip. The sand rat, when
+in species from mesic (moderately moist) habitats and was most	living in its natural habitat, experiences far higher dietary salt loads
+developed in species from arid habitats (Figure 29.7b). Insofar	than the gerbil because it subsists largely on succulent plants of very
+as habitat may be taken as an indicator of demand for urinary	high salt content (see page 710), whereas the gerbil is a seed eater.
+concentration, Sperber’s results indicated that there is a greater	The sand rat can produce a slightly more-concentrated urine than the
+evolutionary development of the long loops of Henle in species	gerbil (6300 mOsm versus 5000 mOsm, respectively). What is more
+that produce relatively concentrated urine.			striking, however, is that the sand rat produces far greater volumes of
+Inspired by Sperber’s work, comparative studies have since been	highly concentrated urine than the gerbil. The longer, thicker papilla
+conducted on medullary thickness. The thickness of the									
+medulla provides a measure of the lengths of the longest		20							
+loops of Henle. A problem that needs to be addressed in such									
+									
+comparative studies is that medullary thickness depends	scale								
+on the body size of mammals; humans, for example, have a		10							
+													
+					on log								
+FIGURE 29.9 The relation between relative medullary									
+thickness and body size depends on whether mammals	thickness							Arid	
+are native to arid, mesic, or aquatic habitats	Each point		5							
+represents a different mammal species. The three lines are									
+fitted statistically through the points for the arid, mesic, and									
+	medullary							Mesic
+freshwater aquatic species. The straight lines on this log–log								
+									
+plot indicate that the relations are allometric (see Appendix									
+F). To interpret this plot, keep in mind that logarithmic scales		Arid							
+tend to cause visual compression of data. The differences	Relative								
+		Mesic						Aquatic
+in relative medullary thickness among the arid, mesic, and								
+		Aquatic						
+aquatic mammals of a particular body size are substantial;								
+									
+for example, the medullary thickness of a representative 1-kg		1							
+arid species is more than twice that of a 1-kg aquatic species.									
+See the legend of Figure 29.8 for a description of how rela-		0.001	0.01	0.1	1	10	100	1000	10,000
+tive medullary thickness is calculated. (After Beuchat 1996.)				Body weight (kg) on log scale			
+
+ 
+Kidneys and Excretion	765
+
+(a)  Laboratory rat (Rattus norvegicus)	(b)  Mongolian gerbil (Meriones shawii)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c)  Sand rat (Psammomys obesus)	(d) A long-looped nephron in a sand rat kidney
+
+
+
+
+
+
+
+
+
+
+
+
+
+The sand rat has a renal
+
+medulla of unique structure
+
+and is noted for being able
+
+to produce large volumes
+
+of highly concentrated urine.
+ 
+
+FIGURE 29.10 Kidney structure visualized by injection of the microvasculature (a–c) Midsagittal sections of the kidneys of three species of rodents of similar adult body size, in which the microscopic blood vessels of the kidneys have been injected with rubber for visu-alization. (d) A drawing of a sand rat kidney showing a nephron with a long loop of Henle. (Photographs in a–c courtesy of Lise Bankir [see Bankir and de Rouffignac 1985]; d after Kaissling et al. 1975.)
+
+in the sand rat kidney correlates with the species’ ability to produce an abundance of concentrated urine.
+
+Countercurrent multiplication is the key to producing concentrated urine
+
+When renal physiologists finally figured out how mammals make urine hyperosmotic to their blood plasma, they were guided to the loops of Henle by Sperber’s studies of comparative kidney morphology. We will soon return to the loops, but first we need to distinguish urea and nonurea solutes and discuss the immediate concentrating process for the latter. The nonurea solutes are simply the solutes other than urea. They consist mostly of inorganic ions such as Na+, K+, Cl–, and SO42–. An important operational parameter is the osmotically effective concentration of all the nonurea solutes taken together, termed the total concentration of nonurea solutes.
+
+THE IMMEDIATE CONCENTRATING PROCESS FOR NONUREA
+
+SOLUTES	The immediate concentrating process for the nonurea
+ 
+
+
+
+solutes is the removal of water from the urine as it flows through the collecting ducts to leave the kidney. Recall that on its way out of the kidney, urine is discharged from the nephrons into the col-lecting ducts, and then flows down the collecting ducts—passing first through the renal cortex and then the medulla—prior to being discharged into the renal pelvis and ureter (see Figure 29.6b). At the point where urine enters the collecting ducts, the total concentra-tion of nonurea solutes in the urine is lower than that in the blood plasma. However, when a mammal is in a state of antidiuresis, as the urine passes in the collecting ducts through deeper and deeper layers of the medulla, its total concentration of nonurea solutes is progressively elevated: The urine ultimately reaches a concentra-tion of nonurea solutes far above the plasma concentration. The immediate mechanism that concentrates the nonurea solutes dur-ing this process is movement of water out of the urinary fluid by osmosis. Nonurea solutes are largely trapped within the collect-ing ducts because the collecting-duct walls are poorly permeable to such solutes. Thus, as water passes by osmosis out of the urine, the nonurea solutes in the urine become more concentrated. Why does water undergo osmosis out of the urine? The fluids that sur-round the collecting ducts in the medulla, known as the medullary interstitial fluids, have a high NaCl concentration. In fact, their NaCl concentration rises steadily with increasing depth in the medulla,
+ 
+766	Chapter 29
+
+so that in the deepest parts of the medulla the osmotic pressure attributable to NaCl is far above plasma osmotic pressure. During antidiuresis, the cells of the collecting-duct walls are freely per-meable to water. As urine inside the collecting ducts flows deeper into the medulla and encounters ever-more-concentrated medul-lary interstitial fluids just on the other side of the collecting-duct epithelium, water progressively moves by osmosis out of the urine into the medullary interstitial fluids.
+ 
+
+(a)  Initial condition
+
+Interstitial fluid
+
+
+The walls of the ascending
+
+limb are essentially imperme-
+
+able to water and are drawn
+
+thick to symbolize that.
+ 
+
+An important attribute of these processes is that a high NaCl concentration on the outside of the collecting ducts serves to concentrate not only NaCl, but also many other nonurea solutes, on the inside. This happens because the solutes involved cannot readily cross the walls of the collecting ducts, yet the cells in the duct walls (the duct epithelium) are freely permeable to water. Because of this difference between permeability to solutes and to water, when high interstitial NaCl concentrations are encountered deep in the medulla, the pri-mary process of equilibration between the urine and the medullary interstitial fluid is osmosis. As this osmosis occurs, nonurea solutes in the urine are concentrated indiscriminately until their total osmoti-cally effective concentration matches the total osmotically effective concentration of NaCl in the medullary interstitial fluids.
+ 
+Descending limb	Ascending limb
+
+(b)  Processes that generate the single effect
+
+H2O  
+
+Na+	NaCl
+Cl–
+
+
+(c) The single effect
+ 
+
+Active transport of NaCl out of the fluid in the ascending limb dilutes that fluid and concentrates the interstitial fluid. The walls of the descending limb are permeable to water, so the fluid inside becomes concentrated by losing water osmotically to the interstitial fluid and sometimes by gaining Na+ and Cl– by diffusion.
+ 
+
+A SINGLE EFFECT BASED ON ACTIVE NaCl TRANSPORT Now we must consider how the gradient of NaCl concentration in the medullary interstitial fluids is created. The loops of Henle are re-sponsible. The first step in understanding how the loops of Henle produce the NaCl gradient is to study a phenomenon, termed the single effect, that is well documented in the outer zone of the medulla, where the thick segments of the ascending limbs of the loops of Henle occur.
+
+The cells in the walls of the ascending thick segment of a loop of Henle actively transport NaCl from the tubular fluid inside the
+
+loop into the adjacent medullary interstitial fluid. The consequences of this NaCl transport, illustrated in Figure 29.11, depend on the
+ 
+
+
+
+
+
+
+
+KEY
+
+Active solute transport
+
+Passive transport:
+
+osmosis or diffusion
+
+Fluid flow
+Na+
+Cl–
+ 
+
+
+
+
+
+The single effect is the difference in osmotic pressure and NaCl concentration between (i) the ascending-limb fluid, and (ii) the adjacent interstitial fluid and descending-limb fluid.
+ 
+permeability characteristics of the ascending limb and the adjacent descending limb of the loop of Henle. The walls of the ascending limb are essentially impermeable to water. Thus the active trans-port of NaCl out of the tubular fluid inside the ascending limb creates a difference in osmotic pressure between that fluid and the adjacent interstitial fluid, in addition to decreasing the NaCl concentration of the fluid inside the ascending limb and increasing the NaCl concentration of the interstitial fluid. The permeability characteristics of the descending limb appear to vary from species to species. Nonetheless, by passive processes of one sort or another, the fluid inside the descending limb readily approaches equilibrium or near-equilibrium with the interstitial fluid in terms of osmotic pressure and ion concentrations.
+
+In a few words, the active transport of NaCl out of the ascend-ing limb lowers the NaCl concentration and osmotic pressure of the ascending-limb fluid and raises the NaCl concentration and osmotic pressure of both the adjacent interstitial fluid and adjacent descending-limb fluid. These differences between the ascending-limb fluid and the adjacent interstitial and descending-limb fluid represent the single effect of the active-transport mechanism.
+
+COUNTERCURRENT MULTIPLICATION The major hurdle in under-standing how mammals produce concentrated urine was crossed in the 1940s and 1950s when Werner Kuhn (1899–1968), Heinrich
+ 
+
+FIGURE 29.11 Generation of the single effect in the loop of Henle Shown here are the ascending limb of the loop of Henle and adjacent descending limb in the outer zone of the medulla, where the thick segments of the ascending limbs occur. As a thought exercise, the diagrams show how the single effect can be generated from scratch. (a) In the initial condition, all the fluids are identical in their osmotic pressures and ion concentrations. (b) The processes that generate the single effect. (c) The single effect that is produced. The osmotic pressure and the concentrations of ions in the ascending-limb fluid are lowered from their original levels, whereas the osmotic pressure and the concentrations of ions in the interstitial and descending-limb fluids are raised.
+
+
+Wirz (1914–1993), and several other investigators demonstrated that the concept of countercurrent multiplication applies to the loops of Henle. In the classic model of countercurrent multipli-cation generated by their work, it was assumed that all parts of each ascending limb actively transport NaCl in the manner just described. Here, we develop that classic model. Later, we discuss complexities introduced by more recent research.
+
+The hairpin shape of a loop of Henle sets up two fluid streams that are oppositely directed (countercurrent), intimately juxta-posed, and connected. These properties are all requirements for a countercurrent multiplier system to operate. Such a system also
+ 
+			Kidneys and Excretion  767
+		
+BOX 29.3	COUNTERCURRENT MULTIPLIERS	
+	VERSUS COUNTERCURRENT EXCHANGERS
+hen oppositely directed fluid	rent exchangers (or countercurrent diffusion	within the countercurrent system; instead,
+streams are closely juxtaposed	exchangers) and are exemplified by the heat	heat follows temperature gradients that exist
+Wand commodities are actively or	exchangers in the appendages of mammals	because energy expenditure elsewhere in the
+passively exchanged between them, the ef-	(see Figure 10.35b).	body has caused the body core to be warmer
+fect of the countercurrent arrangement is to	In an active system, metabolic energy is	than the environment.
+preserve or magnify differences in the levels	used within the countercurrent system itself	Active countercurrent systems create dif-
+of those commodities from end to end along	to induce flux of commodities into or out of	ferences in levels of commodities from end to
+the axis of fluid flow. The countercurrent ar-	the fluid streams; within the loop of Henle,	end along their axis of flow. Note, for instance,
+rangement has this effect because it impedes	for example, energy is used to transport	that if the loops of Henle were turned off, the
+end-to-end flux of commodities that are	NaCl out of the ascending limb. In a passive	gradient of osmotic pressure and NaCl con-
+actively or passively exchanged between the	system, fluxes of commodities into or out of	centration from the outer to the inner end of
+fluid streams.		the fluid streams occur without expenditure	the loops would disappear. Passive systems,
+Two functional types of countercurrent	of metabolic energy in the countercurrent	by contrast, do not create end-to-end differ-
+systems are recognized: active and passive.	system itself. In the heat exchanger in Figure	ences; instead they preserve or accentuate
+The active systems are countercurrent mul-	10.35b, for example, heat does not move	end-to-end differences that already exist for
+tipliers, exemplified by the loops of Henle.	out of one blood vessel and into another	other reasons.
+The passive systems are called countercur-	because of any metabolic energy expenditure	
+			
+
+ 
+
+requires an energy investment within the system (Box 29.3). The energy investment in the loop of Henle is provided by the active NaCl transport we have already discussed, which creates a differ-ence in osmotic pressure and ion concentration between adjacent parts of the oppositely directed fluid streams—the single effect (see Figure 29.11c).
+
+The countercurrent multiplier system multiplies the single ef-fect. To be more specific, the single effect amounts to a difference of roughly 200 mOsm oriented from side to side in the loop of Henle. The countercurrent multiplier system multiplies this difference
+
+into a much larger difference in concentration from end to end in the loop (Figure 29.12a). An end-to-end difference of 600 mOsm
+
+would not be unusual. Many mammals can create an end-to-end difference that is much greater.
+
+The mechanism of countercurrent multiplication is diagrammed in Figure 29.12b. Although osmotic pressures are shown in the figure
+
+and the following discussion is phrased in those terms, it will be important to remember that differences in osmotic pressure in the loop of Henle are paralleled by differences in NaCl concentration. In step ➊ of Figure 29.12b, the entire loop of Henle and the interstitial space are filled with fluid of the same osmotic pressure as that exiting the proximal convoluted tubule—approximately isosmotic with the blood plasma (300 mOsm). In step ➋, active transport establishes a single-effect osmotic gradient of 200 mOsm all along the loop. In step ➌, fluid moves through the loop in countercur-rent fashion. Fluid that was concentrated in the descending limb during step ➋ is thus brought around into the ascending limb and now lies opposite to the descending limb, so that both limbs and the interstitial space are filled with concentrated fluid at the inner end of the loop. Now when, in step ➍, the single-effect osmotic gradient is again established, the interstitial fluid is elevated to 500 mOsm at the inner end, rather than the 400 mOsm developed in step ➋, and the fluid in the descending limb also reaches this higher osmotic concentration of 500 mOsm. Steps ➎ and ➏, and steps ➐ and ➑, repeat this process and should be studied in order to see how the countercurrent multiplier works. Fluid concentrated in the
+ 
+
+descending limb moves around into the ascending limb, setting the stage for the single effect to produce an ever-increasing osmotic concentration in the interstitial fluid and descending limb at the inner end of the loop. Meanwhile, the steady influx of 300-mOsm fluid into the beginning of the descending limb, and the dilution of the ascending-limb fluid as it flows from deep in the medulla to the top of the ascending limb, combine to keep the osmotic pressure of the interstitial fluid at the outer (cortical) end of the loop near 300 mOsm. Thus the difference in osmotic pressure between the two ends of the loop becomes greater and greater, so much so that it greatly exceeds the single effect (see Figure 29.12a).
+
+As noted previously, during the early years when the countercur-rent multiplication concept was initially applied to understanding mammalian kidney function, the single effect was postulated to be created along the entire length of a loop of Henle by active NaCl transport out of the ascending limb. However, by 1970, research had established that the thin segment of the ascending limb deep in the medulla is unlikely to be carrying out such active transport. That discovery started a saga that continues unended today. Active transport of NaCl out of the tubular fluid occurs in the thick seg-ment of the ascending limb, and a consensus exists that the single effect is created according to the classic model (see Figure 29.11) in the outer region of a loop of Henle where the thick ascending segment occurs. However, the single effect is now assumed to be created by some other mechanism in the inner region of a loop of Henle where the ascending limb is thin. The question of the mechanism in the inner region has proved to be very complex and remains unresolved.
+
+That said, it is important to return to the big picture: Countercur-rent multiplication of a single effect along much or all of the length of a loop of Henle creates a large gradient of osmotic pressure from one end of the loop to the other. In the medulla, there are thousands of loops of Henle, all aligned in parallel. We would expect that all these loops, by their combined action, would create in the medullary tissue as a whole a dramatic gradient of increasing osmotic pressure from the outer side of the tissue (next to the cortex) to the inner
+ 
+768	Chapter 29
+
+(a) The single effect and the end-to-end gradient generated from it by countercurrent multiplication
+
+
+
+
+
+
+
+A multiplied
+
+difference of
+concentration is
+600 mOsm
+established from
+
+end to end.
+ 
+
+
+
+The single effect is oriented from side to side.
+
+
+
+
+
+200	mOsm
+
+
+
+
+
+200	mOsm
+ 
+
+
+FIGURE 29.12 Countercurrent multiplication in the loop of Henle (a) The dis-tinction between the side-to-side (transverse) difference in osmotic pressure and the end-to-end (axial) difference in the loop of Henle. The side-to-side difference is the single effect. The end-to-end difference is generated from the side-to-side difference by countercurrent multiplication. (b) The process by which countercurrent multiplica-tion occurs. The numbers are osmotic pressures in units of milliosmolarity (mOsm). The operation of the multiplier is presented conceptually as a series of alternating steps. In ➊, the entire system is at 300 mOsm. In ➋, a single-effect osmotic gradient of 200 mOsm is developed all along the loop, and in ➌, fluid flows through the loop. These steps are repeated in ➍ through ➑. The amount of fluid movement through the loop decreases progressively in ➌, ➎, and ➐. Fluid entering the descending limb is always at 300 mOsm, creating a tendency for the osmotic pressure at the cortical end of the descending limb and interstitial space to remain near 300 mOsm. Al-though both (a) and (b) are presented in terms of osmotic pressures, the differences in osmotic pressure are paralleled by differences in NaCl concentration. The brilliant pedagogical scheme in b was conceived by Robert F. Pitts (1908–1977). (b after Pitts 1974.)
+ 
+
+
+
+
+
+
+(b) The process of countercurrent multiplication
+
+ 
+
+				The single effect	Fluid moves in				
+				is generated.	countercurrent		The single effect is
+							fashion through		again generated.
+							the loop.					
+300	300	300	400	400	200	300	200	350	350	150
+300	300	300	400	400	200	300	200	350	350	150
+300	300	300	400	400	200	300	200	350	350	150
+300	300	300		400	200	300	200		350	350	150
+				400								
+												
+300	300	300	400	400	200	400	400	500	500	300
+300	300	300	400	400	200	400	400	500	500	300
+300	300	300	400	400	200	400	400	500	500	300
+300	300	300	400	400	200	400	400	500	500	300
+	1				2		3				4	
+300		150	325 325	125	300	125	312	312	112
+300		150	325	325	125	325	225	375	375	175
+350		300	425	425	225	325	225	375	375	175
+350		300		425	225	425	225		425	225
+				425						425		
+												
+350		300	425	425	225	425	225	425	425	225
+350		300	425	425	225	425	400	513	513	313
+500		500	600	600	400	425	400	513	513	313
+500		500	600	600	400	600	600	700	700	500
+	5				6		7				8	
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The fluid concentration
+
+at the inner end of the
+
+loop is higher in step 4
+
+than in step 2 .
+
+Moreover…
+
+
+	KEY	
+					
+				Outer end	
+					Ascending
+					limb
+					Interstitial
+		Descending	fluid
+			
+		limb	
+				Inner end	
+…it is even				Movement of fluid through
+higher by step 8 .				
+				loop of Henle	
+					
+				Development of single effect
+				
+					
+
+ 
+
+
+
+
+units)
+(see figure caption for Osmotic pressure
+ 
+
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+ 
+
+Cortex	Medulla
+
+
+Outer	Inner
+
+zone	zone
+ 
+
+
+
+
+
+
+The osmotic pressure
+
+increases with depth
+
+in the medulla of
+
+dehydrated laboratory
+
+rats, reaching a value
+
+at the tip of the papilla
+
+that is about 1000
+
+mOsm higher than
+
+the value in the cortex.
+ 
+Kidneys and Excretion	769
+
+fluids just before leaving the kidney (see Figure 29.14a). In turn, the inner-medullary NaCl concentration itself depends on the proper-ties of the countercurrent multiplier system, including the size of the single effect, the rate of fluid flow through the loops of Henle, and the lengths of the loops. Lengthening of the loops tends to increase the end-to-end gradient of NaCl concentration that can be maintained by the loops and thus tends to raise the inner-medullary NaCl concentration. This explains why, among related species of similar body size, the species with relatively thick medullas and prominent renal papillae tend to be capable of producing relatively concentrated urine (see Figures 29.7 and 29.8).11
+ 
+
+
+
+
+
+
+
+
+
+
+FIGURE 29.13 Osmotic pressure increases with depth in the medulla Each vertical red line shows the range of osmotic pressures measured at a particular depth in the cortex or medulla of kidneys taken from five dehydrated laboratory rats. All the rats, in addition to being sampled at various places, were deliberately sampled at the tip of the papilla, accounting for the cluster of data there. On the y axis,
+
+0 represents an osmotic pressure equal to that of the blood plasma in the general circulation, whereas 100 represents the highest osmotic pressure measured (about 1000 mOsm greater). Intermediate osmotic pressures are scaled relative to the two extremes; specifically, any par-ticular measured osmotic pressure (OP) is expressed as 100 × (mea-sured OP – plasma OP)/(maximum OP – plasma OP). Throughout the cortex, the osmotic pressure is equivalent to the osmotic pressure of plasma in the general circulation. The increase in osmotic pressure with depth in the medulla is attributable both to an increase in NaCl concentration and to an increase in urea concentration. (After Wirz et al. 1951.)
+
+
+side of the tissue (furthest from the cortex). The classic data that originally confirmed this expectation are shown in Figure 29.13.
+
+CONCLUDING POINTS ON THE MECHANISM OF CONCENTRATING
+
+NONUREA SOLUTES Figure 29.14 summarizes the changes in the total concentration of nonurea solutes in the tubular fluid of nephrons and collecting ducts when the kidney of a mammal is producing concentrated urine. As fluid in a nephron travels down the descending limb of the loop of Henle, its concentration of nonurea solutes rises, reaching a high level at the hairpin bend of the loop. Thereafter, as the fluid comes back out of the medulla in the ascending limb of the loop of Henle, its concentration of nonurea solutes falls, so that by the time the fluid exits the loop, it is actually more dilute than when it started and more dilute than the blood plasma. Then, however, the fluid makes a final, crucial pass through the medulla, traveling down a collecting duct to be discharged into the renal pelvis. On this pass, final concentration of the nonurea solutes occurs.
+
+The total concentration of nonurea solutes in the definitive urine depends on the NaCl concentration of the interstitial fluids of the innermost medulla, because in a kidney producing concentrated urine, the urine osmotically equilibrates with those interstitial
+ 
+
+CONCENTRATION OF UREA The mechanisms that concentrate urea differ from those that concentrate the nonurea solutes. Where-as the walls of the collecting ducts block most solutes in the urine and medullary interstitial fluid from diffusing to electrochemical equilibrium, urea is a notable exception. Urea is present at high concentrations in the medullary interstitial fluid, and when mam-mals are in an antidiuretic state, the walls of the collecting ducts in the inner medulla permit free diffusion of urea between the urine inside the ducts and the inner-medullary interstitial fluid (this diffusion is mediated by a facilitated-diffusion urea transporter [UT] protein that is dramatically upregulated by ADH). Basically, therefore, high urea concentrations in the urine reflect the diffu-sion of urea to concentration equilibrium across the walls of the inner-medullary collecting ducts.
+
+How does urea come to be present at high concentrations in the medulla? Put simply, much more urea is filtered than is excreted, and some of the urea reabsorbed along the nephrons accumulates in the medulla. The thick ascending segment of the loop of Henle, the distal convoluted tubule, and the cortical and outer-medullary parts of the collecting duct are poorly permeable to urea. NaCl is actively transported out of the tubular fluid in these tubular regions, and at least in the cortical and outer-medullary collecting duct, water leaves the tubular fluid by osmosis during antidiuresis. Because the permeability to urea in these tubular regions is low, urea—trapped inside the tubules—becomes concentrated in the tubular fluid as water is lost. The important net result is that the tubular fluid has a high urea concentration by the time it enters the inner-medullary collecting duct, which is highly permeable to urea during antidiuresis, permitting free diffusion of urea between the tubular fluid and the medullary interstitial fluid. Urea, therefore, diffuses from the tubular fluid into the inner-medullary intersti-tial fluid, a process that charges the medullary interstitial fluid with urea. According to present thinking, this entire sequence of events is self-reinforcing because urea also enters the tubular fluid in the loops of Henle from the medullary interstitial fluid. By such recycling, the urea concentration in the tubular fluid arriving in the inner-medullary collecting ducts (after passage through the loops of Henle) tends automatically to rise in parallel with the urea concentration of the interstitial fluid. Thus, with a steady influx of new urea from filtration, a gradient favorable for diffusion of urea into the interstitial fluid from the collecting ducts is maintained,
+
+
+11	When comparing species that cover a wide range of body sizes, relative loop length—estimated as relative medullary thickness—is a far better predictor of concentrating ability than absolute loop length (see Figure 29.8). Factors other than absolute length thus clearly play major roles in kidney concentrating function, but these additional factors are not yet understood.
+ 
+770	Chapter 29
+
+(a) Antidiuresis: kidney producing concentrated urine
+
+
+300
+
+100
+
+
+
+300	300
+100	300
+ 
+
+
+(b)  Diuresis: kidney producing dilute urine
+
+
+300
+
+100
+
+
+
+300	300
+100	100
+ 
+
+
+300	300	100	300	300
+
+400	400	200	400	400
+
+500	500	300	500	500
+
+600	600	400	600	600
+
+700	700	500	700	700
+ 
+
+
+
+
+During chronic diuresis (rather than the acute diuresis shown here), the end-to-end gradient of osmotic pressure in the loops of Henle and interstitial fluid
+becomes smaller.
+ 
+
+
+
+300	300	100	300	100
+400	400	200	400	95
+500	500	300	500	90
+600	600	400	600	85
+700	700	500	700	80
+ 
+
+800	800	600	800	800
+
+900	900	700	900	900
+
+1000	1000	800	1000	1000
+ 
+
+
+	800	800	600	800	75
+Collecting duct	900	900	700	900	70
+	1000	1000	800	1000	65
+ 
+
+
+
+
+
+In the kidney producing concentrated urine, the epithelial wall of the collecting ducts is freely permeable to water. Thus the tubular fluid comes to osmotic equilibrium with the gradient of increasing concentration in the medullary interstitial fluid.
+ 
+
+
+
+
+Discharge of fluid from collecting duct to renal pelvis
+ 
+
+
+
+
+
+In the kidney producing dilute urine, the epithelial wall of the collecting ducts is poorly permeable to water. Thus the tubular fluid is osmotically isolated from the medullary interstitial fluid and becomes ever-more dilute as NaCl is reabsorbed along the length of the collecting ducts.
+ 
+
+FIGURE 29.14 Osmotic pressures attributable to nonurea solutes in the nephrons and collecting ducts during antidiuresis and diuresis Thick yellow borders symbolize tubules that are poorly permeable to water. Tubules without yellow borders are permeable to water. The change in the water permeability of the collecting ducts between antidiuresis (a) and diuresis (b) is mediated by insertion and removal of aquaporins in apical cell membranes of the collecting-duct epithelium, as discussed later. The interstitial fluids (white areas) exhibit similar gradients of osmotic pressure throughout the medulla. The numbers, expressed in units of milliosmolarity, are approximate and intended only to illustrate general trends.
+
+even though the interstitial-fluid concentration rises to a high level. High concentrations of urea in the interstitial fluid promote high urinary concentrations because diffusive outflux of urea from the collecting-duct fluid continues only to the point of concentration equilibrium with the medullary interstitial fluid.
+
+How does the process of urea concentration relate to the process by which nonurea solutes are concentrated? This is actually an intricate question because of the interacting dynamism of the two processes. However, two important global points should be made. First, because urea and nonurea solutes are concentrated by rather separate mechanisms, a high urea concentration in the urine does not in any simple mathematical fashion displace nonurea solutes or reduce the concentration of nonurea solutes that is possible. The urine
+ 
+
+
+of a mammal can simultaneously contain high concentrations of both urea and nonurea solutes. The second point to be made is that the osmotic reabsorption of water from the urine in the inner medulla is controlled by the processing of the nonurea solutes. Because urea diffuses to concentration equilibrium across the walls of the inner-medullary collecting ducts, it does not (except transiently) make a direct contribution to the difference in osmotic pressure between the collecting-duct fluid and the interstitial fluid. The difference in osmotic pressure—which governs the osmotic reabsorption of water—is a consequence of different concentrations of the nonurea solutes.
+
+THE BLOOD SUPPLY OF THE MEDULLA: THE VASA RECTA The blood capillaries of the medulla form hairpin loops—known as vasa recta—that parallel the loops of Henle. This arrangement, diagrammed in Figure 29.6b, is vividly evident in Figure 29.10a–c, in which the structures visualized are the blood vessels.
+
+The looped shape of the vasa recta prevents the circulation of blood to the medulla from destroying the concentration gradients of NaCl and urea in the medullary interstitium. To see this, consider what would happen if blood, after flowing into the medulla from the cortex, simply exited the medulla on the pelvic side. The walls of blood capillaries are freely permeable to water and small solutes.
+ 
+Kidneys and Excretion	771
+ 
+
+Thus, as blood flowed from the cortex, deeper and deeper into the medulla—encountering ever-more-concentrated interstitial fluids— it would lose water to the interstitium osmotically and take up NaCl and urea by diffusion. Exiting on the side of the renal pelvis, the blood would leave all that water behind and take the solutes away, diluting the medulla in both ways. Instead, after flowing from the cortex to the inner medulla, the blood reverses direction and flows back to the cortex. On its way out, as it encounters ever-more-dilute interstitial fluids, it reabsorbs water and yields NaCl and urea, reversing the processes that occurred on the way in. The familiar tendency of countercurrent flow to preserve gradients oriented parallel to the axis of flow is once again evident. The vasa recta act as countercurrent diffusion exchangers (see Box 29.3).
+
+An important function of blood flow through the vasa recta is to remove water from the medullary interstitial fluids. The final process of concentrating the urine, as we have seen, entails osmotic move-ment of water from the collecting ducts into the inner-medullary interstitial fluid. This water, if allowed to accumulate, would itself dilute the inner-medullary fluid and thereby diminish the medul-lary concentration gradient. The flow of blood through the vasa recta carries the water away. Evidently, as the blood dynamically loses water during its passage into the medulla and regains water during its passage out, the colloid osmotic pressure resulting from the blood proteins introduces a bias for the gains of water by the
+ 
+
+
+
+osmolytes		1500
+		
+concentration of organic	(μmol/g protein)	1000
+		500
+		
+Total		
+		0
+
+
+
+
+
+
+
+
+Cortex  
+
+Outer medulla	Inner medulla
+ 
+
+
+
+
+
+The total concentration of four organic osmolytes within medullary cells increases with increasing depth (and increasing osmotic pressure of the interstitial fluid) in the medulla.
+ 
+
+blood to exceed losses.
+
+CELL-VOLUME REGULATION, COMPATIBLE SOLUTES, AND COUN-TERACTING SOLUTES IN THE MEDULLA The cells in the medulla of the kidney—such as those in the walls of the loops of Henle and vasa recta—are unique among the cells in a mammal’s body in that they must tolerate exposure to very high solute concentra-tions and osmotic pressures in the interstitial fluids that bathe them. The medullary cells must have high levels of intracellular solutes to maintain normal cell volumes rather than being shriv-eled by osmotic water loss, as explained in Figures 27.8 and 27.9. In comparison with all other cells in a mammal’s body, the renal medullary cells are noted for having exceptionally high intracel-
+
+lular concentrations of organic osmolytes of metabolic origin, no-tably polyhydric alcohols and methylamines (Figure 29.15). These
+
+organic compounds serve as compatible solutes (see page 714): They balance the high extracellular NaCl concentration while having relatively small effects on cell macromolecules.
+
+The high concentrations of urea in the renal medulla are them-selves a challenge to the function of medullary cells because urea can perturb enzymes and other proteins. There is some evidence that the methylamines accumulated in medullary cells (see Figure 29.15) help to offset the perturbing effects of urea. That is, the methylamines act as counteracting solutes (see page 714).
+
+The regulatory roles of the kidney tubules in overview: the concentrating and diluting kidney and the control of transitions
+
+Thus far we have focused on how the mammalian kidney can produce urine more concentrated than the blood plasma. The mammalian kidney resembles other kidneys, however, in that it carries out many processes simultaneously as it performs its overall function of regulating the composition and volume of the blood plasma and other body fluids. In this section we take more of an
+ 
+
+FIGURE 29.15 Cell-volume regulation by organic osmolytes in the medulla of the kidney The cells in the renal medulla produce high intracellular concentrations of organic osmolytes as a means of regulating cell volume in the face of the high osmotic pressures in the interstitial fluids bathing them. The data shown are for normally hy-drated laboratory rats. Each bar represents, at the designated anatomi-cal location, the sum of the four principal organic osmolytes. The four osmolytes are two polyhydric alcohols (sorbitol and myo-inositol) and two trimethylamines (glycine betaine and glycerophosphorylcholine). Concentration is expressed as total micromoles of osmolytes per gram of tissue protein. (After Beck et al. 1998.)
+
+overview of nephron and collecting-duct function in mammals. A useful way to approach this task is, first, to discuss how multiple solutes and water are processed when the kidney is producing a concentrated urine, and then discuss—in a synthetic way—how the kidney functions when producing dilute urine and how the switch between concentration and dilution is regulated.
+
+AN OVERVIEW OF EVENTS IN THE CONCENTRATING KIDNEY Glo-merular filtration is, of course, the first step in forming urine. In comparison with other vertebrates, mammals—with some known exceptions (e.g., dromedary camels)—tend to maintain relatively stable GFRs and adjust their rate of urine production principally by adjusting the fraction of filtered fluid that they ultimately reabsorb and return to the blood prior to excretion. The fluid introduced into the Bowman’s capsule of a nephron by filtration is approximately isosmotic to the blood plasma and contains similar concentrations of inorganic ions, glucose, and amino acids. A major function of the proximal convoluted tubule is net reabsorption of NaCl and water— net return of NaCl and water to the body fluids. In fact, 60–80% of the filtered amounts of NaCl and water are reabsorbed by the time the tubular fluid reaches the beginning of the loop of Henle. The cells of the epithelial walls of the proximal tubule are freely perme-able to water because of aquaporins (discussed shortly), so water exits osmotically as NaCl and other solutes are reabsorbed, and the
+ 
+772	Chapter 29
+
+tubular fluid stays isosmotic to the blood plasma. Glucose, many amino acids, and HCO3 – (bicarbonate ion) are almost completely reabsorbed and returned to the blood plasma in the proximal tubule.
+
+A major contemporary area for research is establishing the molecular basis for the function of the proximal convoluted tubule and all other segments of the kidney tubules. The ultimate goal of this research is to understand every aspect of reabsorption and secretion along all parts of the renal tubules in terms of the specific
+
+transporter proteins, channel proteins, and other molecules that mediate the processes. Figure 29.16a summarizes the major molecular
+
+ion-transport mechanisms in the epithelial cells of the wall of the early proximal convoluted tubule. Na+ reabsorption from the urine is driven by primary active transport carried out by Na+–K+-ATPase (see page 110) in the basolateral membrane, which creates a Na+ electrochemical gradient across the apical membrane favoring Na+ uptake from the tubular fluid. The reabsorption of glucose and amino acids occurs by secondary active transport (see page 112).
+
+Regarding the water permeability of the proximal tubule, aqua-porins, as earlier mentioned, provide the molecular basis for the high permeability of the proximal tubule epithelium. The aquaporins in cell membranes of the epithelial cells of the proximal tubule are classified as constitutive because they are always present in the cell membranes; their levels are not much affected by external agents.
+
+After fluid leaves the proximal convoluted tubule, its next step is to travel through the loop of Henle. Although the tubular fluid enters the loop isosmotic to plasma (~300 mOsm), it exits the loop hyposmotic to plasma (perhaps 100–150 mOsm), as we have seen (see Figure 29.14a). In the ascending thick segment of the loop of Henle, active NaCl transport out of the tubular fluid is a key process that both creates the single effect for countercurrent multiplication,
+
+and accounts for the hyposmotic state of the tubular fluid as it leaves the loop of Henle. Figure 29.16b presents a current model of the
+
+molecular biology of the active NaCl transport out of the tubular fluid in the ascending thick segment. Loop diuretics—medications employed to treat hypertension (high blood pressure)—are targeted at the Na–K–2Cl cotransporter. These medications inhibit NaCl transport out of the tubular fluid by inhibiting the cotransporter, resulting in increased Na+ excretion and water excretion, which tend to decrease the volume of the blood plasma (see page 751).
+
+After exiting the loop of Henle, the tubular fluid passes through the distal convoluted tubule. The epithelial walls of much or all of the distal convoluted tubule are poorly permeable to water and actively transport NaCl out. Thus the tubular fluid remains strongly hyposmotic to the blood plasma (see Figure 29.14a). Potassium (K+) is added to the tubular fluid (partly passively, partly actively) in the distal convoluted tubule and cortical collecting duct. This addition of K+ controls the amount of K+ that is removed from the body fluids and eliminated in the urine because most K+ from filtration was reabsorbed from the tubular fluid in earlier parts of the nephron.
+
+Perhaps 5% or less of the originally filtered volume reaches the collecting duct. In the concentrating kidney, the collecting duct is permeable to water because of an aquaporin-based mechanism discussed in the next section.12 Thus dilute tubular fluid arriving in the collecting duct promptly comes to isosmoticity with the cortical interstitial fluid (~300 mOsm) by osmotic outflux of water (see Figure 29.14a). The tubular fluid then descends deeper and deeper into the
+
+
+12 The terminal distal tubule may also be permeable to water.
+ 
+
+
+medulla, from the cortical to the pelvic end of the collecting duct. As it does so, it encounters an ever-higher interstitial NaCl concentration and attains higher concentrations of urea and nonurea solutes by the mechanisms we have discussed. Water is reabsorbed osmotically and returned to the blood plasma in the vasa recta. Especially in the
+
+cortical part of the collecting duct, but also in the inner-medullary part, NaCl is actively reabsorbed (Figure 29.16c). This reabsorption
+
+of NaCl in the collecting duct determines the final amount of NaCl that is removed from the body fluids and excreted. It also plays a key role in controlling urine volume—the amount of water removed from the body fluids—because by reducing the amount of nonurea solute in the urine, it enhances osmotic return of water from the urine to the blood. In the end, mammals in antidiuresis typically excrete only 1% or less of the filtered NaCl and water.
+
+THE DILUTING KIDNEY AND THE REGULATION OF SWITCHES
+
+BETWEEN CONCENTRATION AND DILUTION Individual mammals are typically capable of adjusting the concentration and volume of their urine over broad ranges, thereby modulating the effects of urine production on the concentration and volume of the blood plasma and other body fluids. A person in antidiuresis might pro-duce urine that is as concentrated as about 1200 mOsm (U/P = 4) and limited in volume to less than 1% of the filtered amount. In diuresis, by contrast, that person might produce urine as dilute as about 50 mOsm (U/P = 0.2) and increase the volume to about 15% of the filtered amount. The effects on the body fluids vary com-mensurately. In antidiuresis the high osmotic concentration of the urine tends to dilute the body fluids (see Figure 27.7), and the low urine volume has the synergistic effect of conserving water. Conversely, in diuresis, the low urine osmotic concentration tends to concentrate the body fluids, and the high urine volume voids water.
+
+The principal agent of control of switches between antidiuresis and diureses is antidiuretic hormone (ADH). The ADH of most mammals is arginine vasopressin; therefore, ADH is often called vasopressin in books on mammalian physiology and medicine. As knowledge advances, the known effects of ADH become more extensive and complex. The action of ADH that is of most central importance in mammals is that it modulates the permeability of the collecting ducts to water.
+
+The effect of ADH on the permeability of the collecting duct epithelium is mediated by a specific molecular form of aquaporin, AQP-2, that is inserted into and retrieved from the apical cell membranes of the collecting-duct epithelial cells; Figure 16.16 shows this process in detail. The presence of ADH causes inser-
+
+tion of aquaporin molecules into the apical cell membranes and an increase in epithelial permeability to water (Figure 29.17). When
+
+ADH levels fall, the aquaporin molecules are retrieved from the apical cell membranes and epithelial permeability to water decreases.
+
+In the concentrating kidney, although we have not said so heretofore, the high permeability of the collecting ducts to water is elicited by high blood levels of ADH. This high water perme-ability permits water to leave the collecting ducts by following the osmotic gradient between the collecting-duct fluid and medullary interstitial fluid. The osmotic exit of water, as previously stressed, accounts for both the low volume and high concentration of the urine produced during antidiuresis.
+
+When blood levels of ADH are low and aquaporins are retrieved from the apical cell membranes of the collecting-duct epithelium, the
+ 
+Kidneys and Excretion	773
+ 
+
+
+
+
+In all three parts of the kidney tubule, Na+ diffuses into the epithelial cells from the tubular fluid because there is an electrochemical gradient favoring such diffusion.
+
+
+
+In the early proximal tubule,
+
+the tubular fluid is rich in glucose and amino acids, and much of the Na+ entry into a cell occurs by means of cotransporters that bring about the secondary active transport of glucose and amino acids into the cell. Only the Na-glucose cotransporter is shown here.
+ 
+
+
+
+
+(a)  Early proximal convoluted tubule	
+Tubular	Apical	Basolateral	Interstitial
+	membrane	membrane	
+			fluid (interfaces
+fluid			
+			with blood plasma)
+			
+K+			K+
+	Na+	ATP	3 Na+
+			
+		ADP	
+	Glucose	2 K+	
+	Na+		Glucose
+			
+H+	H+	HCO3–	Na+
+			
+	CO2 + H2O	H2CO3	HCO3–
+			
+
+
+Cl–   Cl–
+
+
+
+(b)  Thick ascending limb of loop of Henle
+ 
+
+
+
+
+
+KEY
+
+ATPase
+
+Facilitated diffusion
+
+transporter
+
+Cotransporter
+
+Countertransporter
+
+Channel
+
+Transport against the
+
+electrochemical gradient
+
+  Transport in the direction of the electrochemical gradient
+
+
+In all three parts of the kidney tubule, energy for Na+ reabsorption comes from ATP used for primary active transport by Na+–K+-ATPase. The ATPase removes Na+ from each type of epithelial cell across the basolateral cell membrane. Na+ enters each cell
+ 
+
+In the thick ascending limb, much of the Na+ entry into a cell occurs by means of a Na–K–2Cl cotransporter that carries K+ and Cl– inward by secondary active transport. Loop diuretics inhibit this cotransporter.
+ 
+
+		3 Na+
+K	+	ATP
+		
+	Na+	ADP
+		2 K+
+	2 Cl–	Cl–
+	K+	
+		
+		Cl–
+	Na+	K+
+		Na+
+H+	HCO3–
+
+Na+    Na+
+ 
+
+across the apical cell membrane by
+
+diffusion down the electrochemical
+gradient generated by Na+–K+-ATPase.
+The membrane proteins involved in
+Na+ entry are different in all three types
+of epithelial cells, however.
+
+
+
+
+FIGURE 29.16 Major molecular mechanisms of NaCl reabsorption and associated processes in three parts of the mammalian kidney tubule Each drawing shows a representative epithelial cell in the epithelial wall of the tubule. (a) The early proximal convoluted tubule. Cl– is
+ 
+
+(c)
+ 
+Collecting duct Na+-reabsorbing cell (principal cell)
+ 
+
+removed from the tubular fluid at this site by simple diffusion, largely via paracellular pathways, following an electrochemical gradient created by Na+–K+-ATPase. The Na–H countertransporter in the apical
+ 
+
+In the collecting duct, Na+ enters the principal cells by a channel.
+ 
+
+K+  
+
+ATP
+ 
+
+  3 Na+
+ 
+
+membrane moves H+ into the tubular fluid, where the H+ combines with tubular bicarbonate (HCO3–), forming CO2, which enters the cell, supplying CO2 to the intra-
+ 
+
+The collecting-duct principal cells are the main targets of aldo-sterone, which promotes Na+ reabsorption by increasing synthesis of the Na+ channel protein and the Na+–K+-ATPase protein, as well as other actions.
+
+Diuretic drugs such as amiloride block or inhibit the Na+ channel.
+ 
+ADP  
+
+2 K+
+
+  Na+
+
+ K+
+
+
+Cl–   Cl–
+ 
+
+cellular reaction shown. (b) The thick seg-ment of the ascending limb of the loop of Henle. Here, Cl– is reabsorbed through the cells, rather than by the paracellular route, in a process mediated by a Na–K–2Cl cotransporter in the apical membrane. (c) In the collecting ducts, different cells carry out Na+ and Cl– reabsorption. The drawing shows a Na+-reabsorbing cell, known as a principal cell. In all three segments, most K+ brought into cells by Na+–K+-ATPase diffuses out via channels.
+ 
+774	Chapter 29
+ 
+
+(a) Number of aquaporin molecules in apical cell membranes as a ratio of number in intracellular membranes
+
+		1.6	
+Increasing aquaporins in	apical cell membranes	1.4	
+		1.2	
+		1.0	
+		0.8	
+		0.6	
+		0.4	
+		0.2	
+		0.0	
+		Pre-    ADH   Post-
+		ADH	ADH
+
+
+(b)  Permeability to water
+
+		500	
+water permeability		450	
+		400	
+		350	
+	(μm/s)	300	
+		250	
+		200	
+Osmotic		150	
+		100	
+		50	
+			
+		0	
+		Pre-    ADH   Post-
+		ADH	ADH
+
+ 
+
+
+
+
+
+
+
+
+
+When cells of the collecting-duct epithelium are exposed to ADH, molecules of aquaporin-2 are shuttled into the apical cell membranes from intracellular locations. Accordingly…
+
+
+
+
+
+
+…the permeability of the epithelium to water increases.
+ 
+
+Notice how fundamentally similar the action of ADH is in mam-mals and in amphibians. In both groups—and indeed, in all groups of tetrapod vertebrates—the primary effect of ADH on the renal tubules is to increase the permeability to water of tubular epithelia that otherwise are poorly permeable.13 This increase in permeability to water has the important consequence that it allows the tubular fluids to come to osmotic equilibrium with the fluids surrounding the tubules. In amphibians, the fluids surrounding the distal tubules and collecting ducts are osmotically similar to the blood; thus the presence of ADH causes production of urine that approaches isosmoticity with the blood. In mammals, the collecting ducts are surrounded by fluids that are hyperosmotic to the blood. Consequently, ADH causes production of hyperosmotic urine. In both mammals and amphibians, ADH principally controls the excretion of water and thus controls the removal of water from the body fluids.14 Although the amount of each nonurea solute excreted is adjusted by solute-specific tubular mechanisms (e.g., active reabsorption or secretion), the concentration of ADH determines the amount of water that is extracted from the body fluids and excreted with the solutes.
+
+When an individual mammal switches between chronic an-tidiuresis and chronic diuresis, an additional change besides the permeability adjustments occurs: The magnitude of the osmotic gradient in the medullary interstitial fluids—the gradient between the cortex and inner medulla—diminishes. For example, in a dog shifted from chronic antidiuresis to chronic diuresis, the osmotic pressure of the inner-medullary interstitial fluid might change from 2400 mOsm (about 2100 mOsm higher than the cortical osmotic pressure) to 500 mOsm (about 200 mOsm higher). Periods of hours or days are required for such changes to be fully realized.
+
+ADH is not the only hormone that controls kidney function. As discussed in Chapter 28 (see page 751), aldosterone and natriuretic
+ 
+FIGURE 29.17 The collecting-duct epithelium: Cellular position of
+aquaporin-2 (AQP-2) and permeability to water when ADH is pres-
+ent or absent	Studies were carried out on collecting ducts from the
+
+inner medulla. The distribution of AQP-2 molecules was determined by
+
+visualizing and directly counting the molecules by means of immuno-
+logical labels and electron microscopy. According to the shuttle hy-
+pothesis, the AQP-2 molecules in each epithelial cell are shuttled back
+
+and forth between the apical cell membrane and intracellular vesicular
+
+membranes. (a) The number of AQP-2 molecules in apical cell mem-
+
+branes as a ratio of the number in intracellular vesicular membranes.
+
+(b) Permeability of the collecting-duct epithelium to water. (After Knep-
+
+per et al. 1996.)
+
+
+collecting ducts are poorly permeable to water. The distal convoluted tubules are also poorly permeable. Thus, during diuresis, from the time the tubular fluid exits the loops of Henle to the time it is discharged into the renal pelvis, it is blocked from coming freely to osmotic equilibrium with the surrounding cortical and medullary interstitial fluids. Recall that the tubular fluid is hyposmotic to plasma when it exits the loops; therefore, it would lose water osmotically if it could. However, the low water permeability of the walls of the distal tubules and collecting ducts in dieresis—when ADH levels are low— impedes such water loss. Figure 29.14b shows that in fact, because of the low water permeability, as NaCl is actively reabsorbed in the distal tubules and collecting ducts during diuresis, the tubular fluid becomes ever-more hyposmotic to the plasma. The urine produced is both abundant (because of little water reabsorption) and dilute (because of the diluting process just described).
+ 
+
+hormones help control the reabsorption and secretion of Na+ and K+. In addition, calcitonin affects renal function, and the kidneys themselves employ paracrines, such as eicosanoids and kinins, as local chemical messengers.
+
+Modern molecular methods create new frontiers in the study of kidney function
+
+As is true throughout the study of animal physiology, modern mo-lecular methods are enabling kidney researchers to study subjects that seemed utterly beyond reach two decades ago. A stunning example is provided by recent studies of the fine structure of the mammalian renal medulla. Different elements of the medulla often differ categorically in one or more cell-membrane proteins. When this
+
+is the case, elements can be distinguished by immunological labels. For the immunocytochemical study in Figure 29.18a, fluorescent
+
+antibodies were prepared against three distinguishing proteins. A blue-fluorescing antibody was prepared against aquaporin-2, which is found only in collecting ducts. Red- and green-fluorescing anti-bodies were prepared against aquaporin-1 and a urea transporter found, respectively, in the descending thin segments of the loops of Henle and the descending vasa recta. Figure 29.18a shows just a single section through the kidney. By synthesizing information from many sections, the three-dimensional fine structure can be
+
+
+13	This is postulated to occur in all cases by aquaporin insertion.
+
+14	See Chapter 28 (page 750) for a full explanation of this point and Figure 29.5 for a diagram of how changes in tubular permeability to water can alter the amount of water excreted in the urine.
+ 
+
+
+(a)  Direct fluorescence image of a longitudinal section
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.5 mm
+ 
+Kidneys and Excretion	775
+
+
+(b)  Reconstruction of the tip of the medulla	Yellow tubules are
+	descending thin
+	segments of loops
+	of Henle.
+
+Green tubules are
+
+ascending thin
+
+segments of loops
+
+of Henle.
+
+
+
+
+Blue tubules are
+
+collecting ducts.
+
+
+
+
+
+
+
+0.1 mm
+
+FIGURE 29.18 Studies of the fine structure of the papilla of the medulla in young laboratory rats The two parts use different color codes. (a) A portion of a single longitu-dinal section through the medulla, orientated so the tip is down. Blue-, red-, and green-fluorescing antibodies were prepared against three different proteins that distinguish the collecting ducts (blue), descending thin segments of the loops of Henle (red), and de-scending vasa recta (green). (b) A three-dimensional reconstruction of the loops of Henle and collecting ducts in the tip of the papilla. The outer epithelium of the papilla is shown in gray. (Images courtesy of Thomas Pannabecker; from Pannabecker and Dantzler 2007.)
+
+ 
+
+
+reconstructed. Figure 29.18b shows the collecting ducts and the ascending and descending thin segments of loops of Henle in just the very tip—0.5 mm long—of the medullary papilla. Function is intimately related to structure in the kidney, as we have often seen. This new knowledge of the exact structure of the papilla is helping investigators better understand how urine is concentrated in the inner medulla. For instance, the structural studies reveal geometric regularities that previously were unknown and also reveal that there is far more contact among the loops of Henle and the collecting ducts in the medullary tip than would be predicted from a random arrangement of the two types of elements relative to each other.
+
+
+SUMMARY Urine Formation in Mammals
+
+The loops of Henle, collecting ducts, and vasa recta form parallel arrays in the medulla of the mammalian kidney, creating the structural basis for the ability to form urine hyperosmotic to the blood plasma. Among species of mammals of a particular body size, the species with long loops of Henle tend to be able to produce more-concentrated urine than those with shorter loops.
+
+The proximal convoluted tubule reabsorbs—and returns to the body fluids—much of the NaCl and water from the filtrate by processes that do not alter the osmotic pressure of the tubular fluid. It also fully reabsorbs glucose and amino acids, returning them to the body fluids
+
+After the tubular fluid passes through the loop of Henle, it is less concentrated than when it entered. Nonetheless, processes in the loop of Henle create the gradients of osmotic pressure and NaCl concentration in the medullary interstitial fluid that are responsible
+ 
+
+
+
+for the ultimate concentration of the urine. In the part of the loop where the ascending limb is thick, active NaCl transport creates a single-effect difference in osmotic pressure and NaCl concentration between adjacent parts of the ascending and descending limbs. By acting as a countercurrent multiplication system, the loop generates a difference in osmotic pressure and NaCl concentration from end to end that is much larger than the single effect.
+
+During antidiuresis, as tubular fluid makes its last pass through the medulla in the collecting ducts, nonurea solutes are concentrated because the collecting-duct walls are freely permeable to water, permitting osmotic equilibration between the tubular fluid and the medullary interstitial fluid. The high permeability of the collecting-duct epithelial walls to water results from insertion of aquaporin-2 molecules into cell membranes in response to ADH (vasopressin).
+
+During diuresis, the collecting-duct walls are poorly permeable to water, so tubular fluid is osmotically isolated from the medullary interstitial fluid and can be diluted by solute reabsorption.
+
+
+
+Urine Formation in Other Vertebrates
+
+Freshwater and marine teleost fish differ in nephron structure and function
+
+The sort of nephrons we described in amphibians apparently evolved in their freshwater progenitors, because the nephrons of nearly all freshwater teleost (bony) fish are structurally similar to those of amphibians. In freshwater fish, as in amphibians, the distal convoluted tubule plays a key role in diluting the urine. The
+ 
+776	Chapter 29
+
+walls of the tubule are nearly impermeable to water. Thus, as NaCl is reabsorbed and returned to the body fluids, water remains behind in the tubule, and a dilute urine is produced. The effect is to help keep the blood osmotic pressure high (see Figure 27.7) despite the water overload that occurs in freshwater fish because of inward osmosis from the environment.
+Cortex
+Marine teleost fish commonly lack the distal convoluted tubule. If they are descended from freshwater ancestors, as is usually thought (see Box 28.2), the absence of the distal tubule probably represents a secondary loss rather than a primitive condition. The reason for the loss seems straightforward: Marine teleosts are hyposmotic to their seawater environment and thereby face continuous osmotic desiccation. They have no need of a nephron segment specialized for the production of a voluminous, dilute urine rich in osmotically free water.
+
+In addition to differing in the presence or absence of the distal convoluted tubule, freshwater and marine teleosts differ in other ways. Freshwater teleosts typically have relatively large numbers of nephrons and well-developed glomeruli. Their GFRs are relatively high, as suits animals that have excesses of water that must be voided in urine.
+
+In contrast, marine teleosts tend to have relatively few nephrons and small glomeruli. They have low GFRs, a condition that seems adaptive for animals that face desiccation and produce relatively little urine.
+
+Many marine teleosts—according to present evidence—do not form their primary urine entirely by ultrafiltration. Instead, they form their primary urine partly by secretion into the proximal tubules. The mechanism of secretion is that ions—including Na+, Cl–, Mg2+, and SO42–—are actively transported into the proximal tubules, and water and other solutes follow (see Figure 29.2).
+
+In about 30 known species of marine teleosts—described as aglomerular—the trend toward small glomeruli in the marine environment is carried to its logical extreme, and the nephrons lack glomeruli. These aglomerular species form their primary urine entirely by secretion. Aglomerularism has evolved on three independent occasions, suggesting it is adaptive under some circumstances. Some seahorses and pipefish, some Antarctic fish, and the oyster toadfish (Opsanus tau) are aglomerular.
+
+Some of the most interesting fish from the viewpoint of kidney function are the euryhaline teleost species that can live in either freshwater or seawater, such as salmon and migratory eels. The control of kidney function in teleosts has in fact been most thor-oughly studied in some of these species. When a euryhaline fish is transferred from seawater to freshwater, it typically undergoes a large increase in GFR, mediated for the most part by an increase in the number of filtering nephrons. Active secretion of Mg2+ and SO42– into the urine, which is vigorous in seawater, is curtailed in freshwater (where ambient Mg2+ and SO42– concentrations are vastly lower). Moreover, when fish are transferred from seawater to freshwater, the nephrons—and sometimes other excretory structures (e.g., the bladder)—undergo decreases in their overall permeability to water, a change that favors water excretion. Prolactin, arginine vasotocin (the “ADH” of fish; see Table 16.2), and angiotensin II are implicated in controlling these changes, but the controls are not well understood.
+ 
+
+Collecting duct
+
+
+Loopless
+
+nephron
+
+Connection of
+
+undiagrammed
+
+nephron
+
+Proximal
+
+convoluted
+
+tubule
+
+  Bowman’s
+
+capsule	Mammalian-type
+(looped) nephron
+Distal
+
+convoluted
+
+tubule
+
+Loop
+
+of Henle
+
+  Collecting
+Medullary duct cone
+
+
+
+  To ureter
+
+FIGURE 29.19 A lobe of a bird’s kidney in cross section (After Willoughby and Peaker 1979.)
+
+
+The reptiles other than birds have nephrons like those of amphibians, but birds have some mammalian-type nephrons
+
+The nephrons of lizards, snakes, turtles, and crocodilians are broadly similar to those of amphibians. Birds, by contrast, have a range of
+
+nephron forms, which are usually categorized into two major types (Figure 29.19). Some of the nephrons of birds have short, uncom-
+
+plicated proximal and distal tubules, and they lack loops of Henle. These nephrons superficially resemble the nephrons of nonavian reptiles in structure, and they are called loopless nephrons. Other avian nephrons have a loop of Henle interposed between the proxi-mal and distal convoluted tubules and are called looped nephrons or mammalian-type nephrons. These nephrons have relatively large glomeruli and elaborate proximal tubules. Approximately 10–30% of the nephrons in a bird’s kidney are typically of the mammalian type; the remainder are of the loopless type. The mammalian-type nephrons are organized into sets. Among the nephrons of a set, the Bowman’s capsules and proximal and distal convoluted tubules are all positioned near the same part of the kidney that houses the loopless nephrons, but the loops of Henle all project in a compact parallel array toward the direction of the ureter. Each parallel ar-ray of loops of Henle is called a medullary cone (see Figure 29.19). Each kidney includes many cones. Collecting ducts carrying the outflow from both the loopless and the mammalian-type neph-rons run through the medullary cones on their way to the ureter.
+
+Neither the nephrons in the kidneys of nonavian reptiles nor the loopless nephrons in a bird’s kidneys can produce urine that is hyperosmotic to blood. However, the loops of Henle of the mam-malian-type nephrons in a bird’s kidney carry out countercurrent multiplication and can raise the urine osmotic pressure above the blood osmotic pressure. Details of the countercurrent mechanism in birds are probably different from those in mammals. For most
+ 
+
+
+species of birds, the maximum urine osmotic pressure is no more than about 2.5 times blood osmotic pressure.
+
+Uric acid, the principal nitrogenous end product of birds and most other reptiles, is introduced into the nephrons by filtration and secretion. It is actively secreted into the urine as the urine flows through the nephrons, and this secretion accounts for the greater part of the excreted amount.
+
+In both birds and nonavian reptiles, the ureters do not discharge directly to the outside of the body but instead discharge into the cloaca. From the cloaca, the urine is often moved by reverse peristalsis into the lower intestine. Because of these attributes, both the cloaca and the intestine may reclaim constituents from the urine and modify the composition and volume of the urine before the urine is excreted. At least four categories of cloaca-intestine processing are recognized, correlated to some extent with the life histories of the birds and other reptiles. When the urine enters the cloaca from the ureters, the uric acid and urates in it are often present largely in the form of supersaturated colloidal suspensions stabilized by specific proteins. The uric acid and urates are then precipitated into solid, particulate form in the cloaca–intestine. Precipitation after the urine has left the ureters helps prevent clogging of the renal tubules with the precipitate.
+
+
+
+SUMMARY Urine Formation in Other
+
+Vertebrates
+
+Freshwater teleost fish have nephrons structurally similar to amphibian nephrons. Marine teleost fish, however, usually lack the distal convoluted tubule and have a relatively poorly developed glomerular filtration apparatus that seems often to be supplemented by active solute secretion. A few marine fish are aglomerular and depend entirely on secretion.
+
+	Birds and other reptiles have nephrons structurally similar to amphibian nephrons. Birds, in addition, have mammalian-type nephrons (with loops of Henle) organized into parallel arrays—the medullary cones—in which urine hyperosmotic to blood plasma can be made.
+
+
+
+Urine Formation in Decapod Crustaceans
+
+An adult crayfish, crab, lobster, or other decapod crustacean has two renal organs, known as antennal glands or green glands, which
+
+are located in its head and open to the outside independently near the bases of its second antennae (Figure 29.20a). Each antennal
+
+gland is basically a single tube, sometimes loosely described as resembling “a single giant nephron.” In a freshwater crayfish (Fig-ure 29.20b), each antennal gland begins with a closed end sac or coelomosac lying to the side of the esophagus. Following the end sac is the labyrinth (or green body), a sheet of spongy tissue consist-
+
+ing of a channel that branches and anastomoses extensively along its length. The nephridial canal, which also has a spongy internal morphology, leads from the labyrinth to the expanded bladder, and the bladder empties to the outside. The nephridial canal is found only in certain freshwater decapod crustaceans.
+
+The walls of the end sac are thin, and arteries from the heart supply a network of small vessels or lacunae on the outer surface of the end sac (see Figure 25.23). This morphological evidence has
+ 
+Kidneys and Excretion	777
+
+(a)  Position of the antennal gland (green gland)
+
+
+
+
+ Antennal gland
+
+
+
+
+
+
+
+
+(b) Antennal gland unfolded, with urine properties plotted below corresponding anatomical locations
+
+End sac	Labyrinth	Nephridial canal	Bladder	Nephropore
+
+
+
+
+
+
+
+of original	100	Osmotic
+		
+	80	pressure
+		
+	60	
+Percentage		Water volume
+	40	
+		
+	20	
+		
+	0	
+
+FIGURE 29.20 The antennal gland and urine formation in a freshwater crayfish (a) The position of the antennal gland on the right side of a crayfish’s body. (b) Although the nephridial canal is in fact tightly convoluted and partly enveloped by the sheetlike labyrinth, the antennal gland can be stretched out to reveal its parts. The graph shows measured changes in the osmotic pressure and water content of the urine as it passes through the parts of the antennal gland in crayfish (Australopotamobius pallipes and Orconectes virilis) living in freshwater. Values are plotted immediately below the anatomical loca-tions where they were measured and are expressed as percentages of the values in the end sac. (After Riegel 1977.)
+
+long suggested that fluid enters the end sac by filtration under the force of blood pressure. Additional morphological evidence for this concept is provided by the presence of cells resembling podocytes (see Figure 29.1) in the end-sac epithelium. The physiological evidence that is available supports the hypothesis that primary urine is formed in the end sac by filtration from the blood. Most researchers (although not all) conclude that blood pressure provides the force for filtration.
+
+The composition of the urine is modified in all the structures through which it flows as it passes through the antennal gland. The labyrinth of American lobsters, for example, is known to reclaim glucose, and probably reclaims amino acids, from the filtrate. In marine crabs, the bladder is an important site of glucose reabsorption from the urine and Mg2+ secretion into the urine. Unfortunately, a truly synthetic understanding of the handling of solutes by all parts of an antennal gland is not yet available for any species.
+
+Modifications of the osmotic pressure of the urine have been a major focus of study in freshwater decapods. The labyrinth is by all
+ 
+778	Chapter 29
+
+accounts incapable of rendering the urine hyposmotic to the blood. There is a much-emphasized correlation between the presence of a nephridial canal and the ability to produce urine hyposmotic to the blood. Freshwater crayfish, which can make dilute urine, have a nephridial canal; marine decapods and freshwater crabs such as Eriocheir sinensis (see page 723), which are recent immigrants to freshwater and unable to make dilute urine, lack the nephridial canal. Thus the nephridial canal has often been described as being analogous to the vertebrate distal convoluted tubule. Some studies on crayfish indicate that the bladder helps produce dilute urine (see Figure 29.20b). Excretion of dilute urine helps keep the osmotic pres-sure of the body fluids high (see Figure 27.7). Active reabsorption of NaCl—which retains NaCl in the body fluids—is clearly one of the major processes that occurs when a dilute urine is produced.
+
+Urine Formation in Molluscs
+
+The renal organs of molluscs are tubular or saccular structures, called nephridia, or kidneys, that empty into the mantle cavity or directly to the outside. Bivalves, most cephalopods (octopuses and squids), and some gastropods have two kidneys, but most gastropods have only one. In an arrangement that initially strikes most people as truly bizarre, each kidney typically opens into the pericardial cavity that surrounds the heart, and the fluid in the pericardial cavity—the pericardial fluid—is believed to be the primary urine. A canal called the renopericardial canal leads from the pericardial cavity to the main body of each kidney.
+
+The most thoroughly understood molluscan kidney is that of the giant octopus Enteroctopus dofleini, a marine mollusc—isosmotic with seawater—found along the Pacific coast of North America. The
+
+kidneys of octopuses and squids are associated with the branchial hearts rather than the systemic heart (Figure 29.21a). Each branchial
+
+heart bears a thin-walled protuberance, the branchial heart appendage, which communicates with the lumen of the heart. In Enteroctopus, the pericardial cavity of each branchial heart encloses only the side of the heart bearing the heart appendage as seen in Figure 29.21a. A kidney connects to each pericardial cavity. Compelling evidence exists in Enteroctopus and certain other cephalopods that the pericardial fluid is an ultrafiltrate of the blood, forced into the pericardial cavity across the branchial heart appendage under the force of pressure developed in the heart. In each kidney, this filtrate flows through a long renopericardial canal and then an enlarged renal sac before being discharged into the mantle cavity. Studies have shown that the renopericardial canal alters the composition of the urine. Glucose and amino acids are promptly reabsorbed and returned to the body fluids, for example—a process reminiscent of their prompt reclamation in vertebrate nephrons.
+
+The kidneys of bivalve and gastropod molluscs, such as clams and snails, open into the pericardial cavity surrounding the systemic heart (Figure 29.21b).15 Tubular structures called pericardial glands are found in the walls of the atria of the heart or in association with the membranes surrounding the pericardial cavity of these animals. Podocytes (suggestive of filtration) are characteristic cells in the pericardial glands. The incomplete physiological evidence that exists indicates that although the pressures developed by the hearts of bivalves and gastropods are usually low, the pericardial
+
+
+15	Bivalves and gastropods lack branchial hearts.
+ 
+
+(a)  Octopus
+
+
+
+
+Systemic heart	
+	Gill circulation
+	Branchial heart
+Renal appendages	Branchial heart
+	
+	appendage
+Renal sac	Pericardial cavity
+Kidney	Renopericardial canal
+	Opening of renal sac
+	to mantle cavity
+Vena cava	
+
+(b)  Clam or other bivalve
+Systemic heart
+
+
+Pericardial cavity
+
+  Renopericardial canal
+
+  Glandular portion of kidney
+
+Kidney
+
+Bladder
+
+
+FIGURE 29.21 The kidneys of molluscs and their relations to the circulatory system (a) The kidneys and associated parts of the cir-culatory system in the giant octopus Enteroctopus. After the principal vein returning blood from the systemic tissues, the vena cava, branch-es, each branch passes by one of the renal sacs, and there it bears many glandular diverticula, called renal appendages, which are closely juxtaposed to the walls of the sac. In Enteroctopus, ammonia is be-lieved to be secreted into the renal sacs across the renal appendages before blood reaches the branchial hearts, where ultrafiltration occurs. (b) A stylized cross section through the systemic heart in a clam, mus-sel, or other bivalve, showing the relation of the heart and pericardial cavity to the kidneys. (After Martin and Harrison 1966.)
+
+
+fluid (which is the primary urine) is formed by filtration, and this filtration occurs in the pericardial glands. The primary urine is altered as it flows through the kidneys, but little is known about the process. In freshwater mussels, the osmotic pressure of the urine is reduced to about half that of the blood by the time the urine arrives in the bladder. Thus, a dilute urine that helps keep the osmotic pressure of the body fluids high (see Figure 27.7) is excreted.
+
+Urine Formation in Insects
+
+The formation of urine has been much more thoroughly studied in insects than in any other group of invertebrates. Most insects possess Malpighian tubules,16 and these tubules are often called the “excretory tubules.” A point to be stressed from the outset, however, is that the hindgut is as important as the Malpighian tubules in the formation of urine.
+
+
+16 The tubules are named after Marcello Malpighi (1628–1694), one of the great early microscopists, who was the first to describe the blood capillaries and renal corpuscles of vertebrates as well as the Malpighian tubules and tracheae of insects.
+ 
+
+
+
+
+
+  Midgut
+
+
+
+   Malpighian tubule
+
+
+
+
+
+Anterior hindgut
+
+Rectal pad    Rectum
+
+  Anus
+
+FIGURE 29.22 The posterior gut and Malpighian tubules of an insect The Malpighian tubules empty into the gut at the junction of the midgut and hindgut.
+
+The Malpighian tubules are long, slender, blind-ended structures
+
+that typically arise from the junction of the midgut and hindgut (Figure 29.22). They number from 2 to more than 200, depend-
+
+ing on the species. Projecting into the hemocoel, they are bathed by the blood (hemolymph). The walls of the tubules consist of a single layer of epithelial cells, surrounded on the outside by a thin basement membrane. Although the tubules exhibit little histo-logical differentiation along their length in some species, they are differentiated into two to six (or possibly more) distinct regions in numerous others. In many species, the various tubules within an individual are morphologically similar, but in others, two or more types of tubules are present.
+
+The hindgut, which is lined with cuticle (see Figure 6.19), typically consists of a relatively small-diameter anterior hindgut (ileum or intestine) and an expanded posterior part, the rectum (see Figure 29.22). The walls of the anterior hindgut usually consist of a single layer of cuboidal or squamous epithelial cells. The walls of the rectum are similar to those of the anterior hindgut in some insects, but in many other species, parts of the rectal wall consist of thick columnar epithelial cells, sometimes associated with secondary cell layers. These thickened parts of the rectal wall are termed rectal pads or rectal papillae (see Figure 29.22), depending on their gross morphology.
+
+The Malpighian tubules form and sometimes modify the primary urine
+
+The function shared by the Malpighian tubules of all insects studied is the formation of the primary urine. The tubules are not supplied with blood vessels, and filtration does not occur. Instead, the primary urine is formed by a secretory mechanism in insects (see Figure 29.2). In the most common scenario, potassium chloride (KCl) is secreted vigorously by the epithelium of a Malpighian tubule from the blood bathing the tubule into the lumen of the tubule—so vig-orously that the K+ concentration in the tubular fluid is 6–30 times higher than the blood K+ concentration. According to theories that have rapidly matured in the last 25 years, the K+ secretion occurs
+ 
+Kidneys and Excretion	779
+
+by secondary active transport; a H+-ATPase uses ATP bond energy to create electrochemical gradients that drive the secondary active transport of K+. The secretion of K+ into a Malpighian tubule is electrogenic, and Cl– accompanies the K+ passively by following the electrical gradient (inside positive) set up by K+ secretion. The result is that KCl is secreted at a cost of ATP. The flux of KCl into the lumen of a Malpighian tubule drives osmotic entry of water, which typically occurs briskly enough that the tubular fluid remains approximately isosmotic to the blood (a case of near-isosmotic wa-ter transfer). Many additional solutes then enter the tubular fluid passively, as by following solute concentration gradients set up by the osmotic influx of water; these solutes include amino acids, sugars, diverse organic wastes and toxins, and several inorganic ions. Proteins are largely excluded from the tubular fluid because of their molecular size. Certain organic compounds—notably some detoxification products plus secondary compounds synthesized by plants to deter herbivory (e.g., alkaloids)—are actively secreted into the primary urine by some insects.
+
+Although KCl is most commonly the principal salt secreted to initiate primary-urine formation, NaCl plays this role in some species. There are also species in which KCl predominates under some conditions, whereas NaCl does under other conditions.
+
+As primary urine flows through the Malpighian tubules toward the gut, the tubular epithelium may reabsorb salts, water, or other molecules such as glucose—returning them to the blood. In the end, the fluid that enters the hindgut from the Malpighian tubules is approximately isosmotic with the blood and contains numerous solutes. Its solute composition is quite unlike that of the blood, however. In particular, the fluid that enters the hindgut is typically far richer in KCl than the blood is—a consequence of the secretory mechanism of primary-urine formation.
+
+The rate at which primary urine is formed and flows toward the hindgut in an insect’s Malpighian tubules can be strikingly high relative to the total volume of the insect’s body fluids. Cur-rent estimates, for example, indicate that in a female yellow-fever mosquito (Aedes aegypti), during an ordinary 24-h day when she has not taken a blood meal, the Malpighian tubules produce primary urine equivalent to 12 times her total body volume of extracellular fluid! If this sounds strange, it is really not; recall the very high rate at which human kidneys produce primary urine—also equivalent to about 12 times the entire extracellular fluid volume every day. In insects, as in vertebrates, most primary urine is reabsorbed (mostly by the hindgut) rather than being excreted. The overall process—a high rate of primary-urine formation followed by a high rate of reabsorption—gives the excretory system intimate access to the blood to carry out its regulatory functions, as already stressed.
+
+A noteworthy aspect of the reabsorption process in insects is the reclamation of KCl. KCl must be secreted into the Malpghian tubules at a high rate to drive the production of primary urine, but it could not be lost from the body fluids at that rate. Instead, most KCl is reabsorbed back into the blood by the hindgut and recycled to produce more primary urine.
+
+The hindgut modulates urine volume and composition in regulatory ways
+
+Although the reabsorption of KCl and water from the primary urine sometimes starts in the lower parts of the Malpighian tubules, it occurs predominantly in the hindgut, especially in the rectum.
+ 
+aThe high osmotic pressure in the scanty rectal fluid of water-fed animals is presumed to be caused by organic solutes.
+Source: After Phillips 1964.
+The animals (Schistocerca gregaria) were deprived of food.
+Saline-fed
+Water-fed
+Experimental treatment
+TABLE 29.1
+780	Chapter 29
+
+After urine is discharged from the Malpighian tubules, it flows with the feces through the hindgut, where its compo-sition, concentration, and volume are modified, resulting in the definitive urine, which is excreted. The rectum (which is far better understood than the anterior hindgut) not only reabsorbs—and returns to the blood—most of the water, K+, Na+, and Cl– introduced into the hindgut by the Malpighian tubules, but also often reabsorbs amino acids, acetate, and phosphate. The rectum also has some secretory functions. For example, H+ is secreted from the blood into the urine in the rectum, and the resulting acidification contributes to the precipitation of uric acid and urates there.
+
+Research has increasingly clarified that the insect rectum has impressive regulatory abilities. It can modify the volume, composition, and osmotic pressure of the urine in ways that help regulate the volume, composition, and osmotic pressure of the blood. The rectum adjusts the osmotic pressure of the urine by varying the relative rates of reabsorption of water and total solutes. It also adjusts the ionic composition of the urine. In one set of experiments, for example, fasting locusts were permitted to drink either tap water or a saline solution containing K+, Na+, Cl–, and other ions. The rectum in the water-fed locusts reclaimed ions, returning them to the blood:
+
+It lowered ion concentrations in the urine, compared with those in the anterior-hindgut fluid. However, the rectum in the saline-fed locusts raised ion concentrations (Table 29.1). The saline-fed locusts also accumulated greater volumes of urine in the rectum, so that overall, the quantities of ions excreted in their urine were hundreds of times greater than those excreted by the water-fed animals. In this way the rectum played a major role in helping to regulate blood ion concentrations.
+
+The study of the hormonal control of urine production in insects is a burgeoning field at present, in part because of the expectation that the next generation of controls for insect pests might include procedures that defeat vital control mechanisms. Numerous diuretic and antidiuretic neurohormones—which affect both Malpighian-tubule and rectal function—have been identified in various species.
+
+PRODUCTION OF URINE HYPEROSMOTIC TO THE BLOOD Insects are one of the three major groups of animals that can produce urine that is hyperosmotic to their blood plasma (mammals and birds are the other two groups). When insects produce hyperosmotic urine (see page 742), the process of concentration usually occurs in the rectum. At least three different mechanisms of concentrating the urine have evolved.
+
+In insects that have rectal pads or rectal papillae—such as cockroaches (Periplaneta), desert locusts (Schistocerca), and blowflies (Calliphora)—the urine in the rectal lumen is concentrated by water reabsorption in excess of solute reabsorption. This water reabsorp-tion is highly intriguing because it can continue even when the osmotic pressure of the rectal contents has risen to be two or more times higher than the osmotic pressure of the blood bathing the rectum! The existence of this seemingly paradoxical process has been demonstrated in several ways. Perhaps the most compelling evidence comes from experiments in which the rectum has been filled with a pure solution of a solute (e.g., trehalose) that is neither reabsorbed nor secreted across the rectal wall. The amount of such a solute in the rectum is fixed during the course of an experiment.
+ 
+
+
+
+Average composition of the rectal fluid and other body fluids in locusts provided with tap water or a saline solution to drink
+
+
+	Osmotic	Ion concentration (mM)
+	pressure			
+Fluid		Cl–	Na+	K+
+	(mOsm)			
+Rectal fluid	820a	5	1	22
+Anterior-hindgut	420	93	20	139
+fluid				
+Blood	400	115	108	11
+Rectal fluid	1870	569	405	241
+Anterior-hindgut	—	192	67	186
+fluid				
+Blood	520	163	158	19
+
+
+
+
+When locusts (Schistocerca) were treated in this way, they reab-sorbed water from their rectal contents and the rectal-fluid osmotic pressure rose. After the rectal fluid osmotic pressure had become twice as high as blood osmotic pressure, it continued to rise and reached nearly three times the blood osmotic pressure. Results of this sort show that the rectal wall can move water against large, opposing osmotic gradients between the rectal fluid on the inside and blood on the outside. The results show, moreover, that in the short term, this water reabsorption can occur even in the absence of simultaneous solute reabsorption.
+
+The mechanism of such water reabsorption was mystifying for many years. Now, however, a consensus exists that it is a case of osmosis on a microscopic scale: local osmosis. The mechanism depends in part on a complex microarchitecture in the rectal pads or papillae. The details of structure and possibly of function vary from species to species. Here, we focus on the blowfly (Calliphora) as an example.
+
+In the rectal papilla of a blowfly (Figure 29.23a), adjacent cells of the columnar epithelium are tightly joined on the side facing the rectal lumen and on the opposite (basal) side, but in between, the cells are separated by an elaborate network of minute channels and spaces, here termed the intercellular spaces (intercellular, “between cells”). The network of intercellular spaces communicates at the apex of the papilla with subepithelial spaces—here called infundibular channels—that are positioned under the basal side of the epithelial cell layer and connect with general blood spaces. Researchers hypothesize that the epithelial cells actively secrete solutes into the intercellular spaces, thereby rendering the fluid in the intercellular
+
+spaces strongly hyperosmotic to both the blood and the fluid in the rectal lumen (Figure 29.23b). Osmosis then carries water out
+
+of the rectal lumen into the intercellular spaces; that is, because of the locally high osmotic pressure in the intercellular spaces, water is osmotically withdrawn from the rectal fluid, even though the latter is thereby made increasingly hyperosmotic to the blood. Entry of water into the intercellular spaces adds volume to the fluid in the spaces and thereby causes fluid to flow in streams through
+ 
+
